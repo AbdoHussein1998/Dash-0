@@ -26,7 +26,7 @@ div_dropdown_countries="div_dropdown_countries"
 div_dropdown="div_dropdown"
 ##################################
 PATH=pathlib.Path(__file__).parent
-DATA_PATH=PATH.joinpath("data\gulf_df.csv").resolve()
+DATA_PATH=PATH.joinpath("data/gulf_df.csv").resolve()
 
 ### importing final file exported from  wrangling process
 gulf_df=pd.read_csv(DATA_PATH)
