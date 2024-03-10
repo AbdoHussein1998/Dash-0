@@ -1,0 +1,2839 @@
+,country,year,cause,sex,deaths1,country_name
+0,3320,1995,Hepatic viral infection,1,1,Qatar
+1,3320,1995,Hepatic viral infection,2,1,Qatar
+2,3320,1995,Hepatic viral infection,1,3,Qatar
+3,3320,1995,Hepatic viral infection,2,1,Qatar
+4,3320,1995,Hepatic viral infection,2,1,Qatar
+5,3320,1995,AIDS\HIV,1,2,Qatar
+6,3320,1995,AIDS\HIV,2,1,Qatar
+7,3320,1995,AIDS\HIV,2,1,Qatar
+8,3320,1995,AIDS\HIV,1,2,Qatar
+9,3320,1995,AIDS\HIV,1,1,Qatar
+10,3320,1995,Self-harm,2,1,Qatar
+11,3320,1995,Self-harm,1,1,Qatar
+12,3320,1995,Self-harm,1,1,Qatar
+13,3320,1995,Self-harm,1,24,Qatar
+14,3320,1995,Self-harm,2,4,Qatar
+15,3320,1995,Self-harm,1,7,Qatar
+16,3320,1995,Self-harm,1,1,Qatar
+17,3320,1995,Self-harm,2,9,Qatar
+18,3320,1995,Self-harm,1,13,Qatar
+19,3320,1995,Self-harm,2,3,Qatar
+20,3320,1995,Other heart diseases,2,3,Qatar
+21,3320,1995,Other heart diseases,1,21,Qatar
+22,3320,1995,Other heart diseases,2,1,Qatar
+23,3320,1995,Other heart diseases,1,1,Qatar
+24,3320,1995,Other heart diseases,2,3,Qatar
+25,3320,1995,Other heart diseases,1,1,Qatar
+26,3320,1995,Self-harm,2,23,Qatar
+27,3320,1995,Other heart diseases,2,3,Qatar
+28,3320,1995,Other heart diseases,1,6,Qatar
+29,3320,1995,Other heart diseases,1,1,Qatar
+30,3320,1995,Other heart diseases,2,1,Qatar
+31,3320,1995,Mental disorders,1,1,Qatar
+32,3320,1995,Mental disorders,2,1,Qatar
+33,3320,1995,Other heart diseases,1,2,Qatar
+34,3320,1995,Other heart diseases,2,1,Qatar
+35,3320,1995,Other heart diseases,2,2,Qatar
+36,3320,1995,Other heart diseases,1,1,Qatar
+37,3320,1995,Other heart diseases,1,3,Qatar
+38,3320,1995,Ischmic Heart diseases,2,21,Qatar
+39,3320,1995,Ischmic Heart diseases,1,65,Qatar
+40,3320,1995,Ischmic Heart diseases,1,4,Qatar
+41,3320,1995,Ischmic Heart diseases,1,3,Qatar
+42,3320,1995,Ischmic Heart diseases,2,19,Qatar
+43,3320,1995,Ischmic Heart diseases,1,53,Qatar
+44,3320,1995,Ischmic Heart diseases,1,4,Qatar
+45,3320,1995,Hypertensive disorders,2,7,Qatar
+46,3320,1995,Hypertensive disorders,1,6,Qatar
+47,3320,1995,Hypertensive disorders,2,9,Qatar
+48,3320,1995,Hypertensive disorders,1,4,Qatar
+49,3320,1995,Rhumatic Fever,1,1,Qatar
+50,3320,1995,Rhumatic Fever,1,3,Qatar
+51,3320,1995,Rhumatic Fever,2,2,Qatar
+52,3320,1995,Rhumatic Fever,1,2,Qatar
+53,3320,2001,Hepatic viral infection,1,11,Qatar
+54,3320,2001,Hepatic viral infection,2,2,Qatar
+55,3320,2001,Hepatic viral infection,1,1,Qatar
+56,3320,2001,AIDS\HIV,1,1,Qatar
+57,3320,2001,AIDS\HIV,2,1,Qatar
+58,3320,2001,Other heart diseases,2,7,Qatar
+59,3320,2001,Other heart diseases,1,4,Qatar
+60,3320,2001,Other heart diseases,2,3,Qatar
+61,3320,2001,Self-harm,1,1,Qatar
+62,3320,2001,Self-harm,1,5,Qatar
+63,3320,2001,Self-harm,2,3,Qatar
+64,3320,2001,Self-harm,1,3,Qatar
+65,3320,2001,Self-harm,1,8,Qatar
+66,3320,2001,Self-harm,2,4,Qatar
+67,3320,2001,Self-harm,1,21,Qatar
+68,3320,2001,Self-harm,2,11,Qatar
+69,3320,2001,Self-harm,1,3,Qatar
+70,3320,2001,Self-harm,2,3,Qatar
+71,3320,2001,Self-harm,1,1,Qatar
+72,3320,2001,Self-harm,2,1,Qatar
+73,3320,2001,Other heart diseases,1,15,Qatar
+74,3320,2001,Other heart diseases,2,3,Qatar
+75,3320,2001,Other heart diseases,1,3,Qatar
+76,3320,2001,Other heart diseases,2,2,Qatar
+77,3320,2001,Hypertensive disorders,1,38,Qatar
+78,3320,2001,Hypertensive disorders,2,29,Qatar
+79,3320,2001,Hypertensive disorders,1,2,Qatar
+80,3320,2001,Ischmic Heart diseases,1,27,Qatar
+81,3320,2001,Ischmic Heart diseases,2,7,Qatar
+82,3320,2001,Ischmic Heart diseases,1,43,Qatar
+83,3320,2001,Ischmic Heart diseases,2,16,Qatar
+84,3320,2001,Other heart diseases,1,1,Qatar
+85,3320,2001,Other heart diseases,2,2,Qatar
+86,3320,2001,Other heart diseases,1,1,Qatar
+87,3320,2001,Other heart diseases,2,1,Qatar
+88,3320,2001,Other heart diseases,1,2,Qatar
+89,3320,2001,Other heart diseases,2,1,Qatar
+90,3320,2001,Other heart diseases,1,6,Qatar
+91,3320,2001,Other heart diseases,2,4,Qatar
+92,3320,2001,Other heart diseases,1,1,Qatar
+93,3320,2001,Other heart diseases,2,1,Qatar
+94,3320,2001,Other heart diseases,2,1,Qatar
+95,3320,2001,Other heart diseases,1,148,Qatar
+96,3320,2001,Other heart diseases,2,14,Qatar
+97,3320,2001,Other heart diseases,1,4,Qatar
+98,3320,2001,Rhumatic Fever,1,2,Qatar
+99,3320,2001,Rhumatic Fever,2,1,Qatar
+100,3320,2001,Mental disorders,1,2,Qatar
+101,3320,2001,Mental disorders,2,5,Qatar
+102,3320,2001,Mental disorders,1,1,Qatar
+103,3320,2001,Mental disorders,1,1,Qatar
+104,3320,2004,Sexual Transmmited diseases,1,1,Qatar
+105,3320,2004,Hepatic viral infection,1,1,Qatar
+106,3320,2004,Hepatic viral infection,1,4,Qatar
+107,3320,2004,Hepatic viral infection,2,2,Qatar
+108,3320,2004,Hepatic viral infection,1,4,Qatar
+109,3320,2004,Hepatic viral infection,2,1,Qatar
+110,3320,2004,Mental disorders,2,1,Qatar
+111,3320,2004,Ischmic Heart diseases,2,33,Qatar
+112,3320,2004,Ischmic Heart diseases,1,63,Qatar
+113,3320,2004,Ischmic Heart diseases,1,1,Qatar
+114,3320,2004,Ischmic Heart diseases,1,1,Qatar
+115,3320,2004,Ischmic Heart diseases,2,4,Qatar
+116,3320,2004,Ischmic Heart diseases,1,8,Qatar
+117,3320,2004,Hypertensive disorders,1,1,Qatar
+118,3320,2004,Hypertensive disorders,1,48,Qatar
+119,3320,2004,Hypertensive disorders,2,48,Qatar
+120,3320,2004,Other heart diseases,1,4,Qatar
+121,3320,2004,Other heart diseases,2,1,Qatar
+122,3320,2004,Other heart diseases,2,1,Qatar
+123,3320,2004,Other heart diseases,1,3,Qatar
+124,3320,2004,Other heart diseases,1,1,Qatar
+125,3320,2004,Other heart diseases,2,3,Qatar
+126,3320,2004,Other heart diseases,1,1,Qatar
+127,3320,2004,Other heart diseases,1,5,Qatar
+128,3320,2004,Other heart diseases,2,2,Qatar
+129,3320,2004,Other heart diseases,1,1,Qatar
+130,3320,2004,Other heart diseases,1,2,Qatar
+131,3320,2004,Other heart diseases,1,1,Qatar
+132,3320,2004,Other heart diseases,2,1,Qatar
+133,3320,2004,Other heart diseases,1,3,Qatar
+134,3320,2004,Other heart diseases,2,1,Qatar
+135,3320,2004,Self-harm,1,3,Qatar
+136,3320,2004,Self-harm,1,3,Qatar
+137,3320,2004,Self-harm,2,2,Qatar
+138,3320,2004,Self-harm,1,1,Qatar
+139,3320,2004,Self-harm,2,1,Qatar
+140,3320,2004,Self-harm,2,1,Qatar
+141,3320,2004,Self-harm,1,1,Qatar
+142,3320,2004,Self-harm,2,1,Qatar
+143,3320,2004,Self-harm,1,1,Qatar
+144,3320,2005,Other heart diseases,2,1,Qatar
+145,3320,2005,Other heart diseases,2,2,Qatar
+146,3320,2005,Other heart diseases,1,1,Qatar
+147,3320,2005,Other heart diseases,2,2,Qatar
+148,3320,2005,Other heart diseases,1,3,Qatar
+149,3320,2005,Other heart diseases,2,1,Qatar
+150,3320,2005,Other heart diseases,1,3,Qatar
+151,3320,2005,Other heart diseases,2,4,Qatar
+152,3320,2005,Other heart diseases,1,2,Qatar
+153,3320,2005,Other heart diseases,2,1,Qatar
+154,3320,2005,Other heart diseases,1,3,Qatar
+155,3320,2005,Other heart diseases,2,3,Qatar
+156,3320,2005,Other heart diseases,2,2,Qatar
+157,3320,2005,Self-harm,1,2,Qatar
+158,3320,2005,Self-harm,1,2,Qatar
+159,3320,2005,Self-harm,1,2,Qatar
+160,3320,2005,Self-harm,2,2,Qatar
+161,3320,2005,Self-harm,1,4,Qatar
+162,3320,2005,Self-harm,1,5,Qatar
+163,3320,2005,Self-harm,1,2,Qatar
+164,3320,2005,Self-harm,1,1,Qatar
+165,3320,2005,Self-harm,2,1,Qatar
+166,3320,2005,Self-harm,2,1,Qatar
+167,3320,2005,Other heart diseases,1,3,Qatar
+168,3320,2005,Other heart diseases,1,1,Qatar
+169,3320,2005,Other heart diseases,1,1,Qatar
+170,3320,2005,Ischmic Heart diseases,2,36,Qatar
+171,3320,2005,Ischmic Heart diseases,1,77,Qatar
+172,3320,2005,AIDS\HIV,1,5,Qatar
+173,3320,2005,AIDS\HIV,2,1,Qatar
+174,3320,2005,Rhumatic Fever,1,1,Qatar
+175,3320,2005,Rhumatic Fever,1,2,Qatar
+176,3320,2005,Hypertensive disorders,1,44,Qatar
+177,3320,2005,Hypertensive disorders,2,41,Qatar
+178,3320,2005,Hypertensive disorders,1,5,Qatar
+179,3320,2005,Hypertensive disorders,2,6,Qatar
+180,3320,2005,Hypertensive disorders,2,1,Qatar
+181,3320,2005,Ischmic Heart diseases,1,32,Qatar
+182,3320,2005,Ischmic Heart diseases,2,4,Qatar
+183,3320,2005,Ischmic Heart diseases,1,3,Qatar
+184,3320,2005,Ischmic Heart diseases,1,2,Qatar
+185,3320,2006,AIDS\HIV,1,1,Qatar
+186,3320,2006,AIDS\HIV,1,1,Qatar
+187,3320,2006,AIDS\HIV,2,2,Qatar
+188,3320,2006,Hepatic viral infection,1,1,Qatar
+189,3320,2006,Other heart diseases,2,3,Qatar
+190,3320,2006,Other heart diseases,2,1,Qatar
+191,3320,2006,Other heart diseases,1,2,Qatar
+192,3320,2006,Other heart diseases,2,5,Qatar
+193,3320,2006,Self-harm,1,5,Qatar
+194,3320,2006,Self-harm,2,2,Qatar
+195,3320,2006,Self-harm,1,3,Qatar
+196,3320,2006,Self-harm,2,2,Qatar
+197,3320,2006,Self-harm,1,1,Qatar
+198,3320,2006,Self-harm,1,2,Qatar
+199,3320,2006,Self-harm,2,3,Qatar
+200,3320,2006,Self-harm,1,1,Qatar
+201,3320,2006,Self-harm,1,1,Qatar
+202,3320,2006,Self-harm,1,1,Qatar
+203,3320,2006,Self-harm,1,1,Qatar
+204,3320,2006,Self-harm,2,1,Qatar
+205,3320,2006,Self-harm,1,1,Qatar
+206,3320,2006,Self-harm,1,4,Qatar
+207,3320,2006,Other heart diseases,1,1,Qatar
+208,3320,2006,Other heart diseases,2,5,Qatar
+209,3320,2006,Other heart diseases,1,4,Qatar
+210,3320,2006,Other heart diseases,1,1,Qatar
+211,3320,2006,Ischmic Heart diseases,2,8,Qatar
+212,3320,2006,Ischmic Heart diseases,1,7,Qatar
+213,3320,2006,Ischmic Heart diseases,2,1,Qatar
+214,3320,2006,Ischmic Heart diseases,1,71,Qatar
+215,3320,2006,Ischmic Heart diseases,2,51,Qatar
+216,3320,2006,Other heart diseases,1,3,Qatar
+217,3320,2006,Other heart diseases,2,2,Qatar
+218,3320,2006,Other heart diseases,1,1,Qatar
+219,3320,2006,Other heart diseases,2,1,Qatar
+220,3320,2006,Ischmic Heart diseases,1,23,Qatar
+221,3320,2006,Other heart diseases,2,1,Qatar
+222,3320,2006,Other heart diseases,2,1,Qatar
+223,3320,2006,Other heart diseases,1,1,Qatar
+224,3320,2006,Other heart diseases,2,1,Qatar
+225,3320,2006,Other heart diseases,1,2,Qatar
+226,3320,2006,Other heart diseases,1,5,Qatar
+227,3320,2006,Other heart diseases,2,1,Qatar
+228,3320,2006,Other heart diseases,1,3,Qatar
+229,3320,2006,Other heart diseases,2,1,Qatar
+230,3320,2006,Other heart diseases,2,1,Qatar
+231,3320,2006,Other heart diseases,1,1,Qatar
+232,3320,2006,Ischmic Heart diseases,1,1,Qatar
+233,3320,2006,Hypertensive disorders,1,1,Qatar
+234,3320,2006,Hypertensive disorders,2,45,Qatar
+235,3320,2006,Mental disorders,1,1,Qatar
+236,3320,2006,Rhumatic Fever,1,1,Qatar
+237,3320,2006,Rhumatic Fever,2,1,Qatar
+238,3320,2006,Rhumatic Fever,1,1,Qatar
+239,3320,2006,Rhumatic Fever,2,1,Qatar
+240,3320,2006,Hypertensive disorders,1,36,Qatar
+241,3320,2007,Hepatic viral infection,2,1,Qatar
+242,3320,2007,Hepatic viral infection,1,1,Qatar
+243,3320,2007,Self-harm,1,6,Qatar
+244,3320,2007,Self-harm,2,3,Qatar
+245,3320,2007,Self-harm,1,4,Qatar
+246,3320,2007,Other heart diseases,2,1,Qatar
+247,3320,2007,Other heart diseases,1,2,Qatar
+248,3320,2007,Other heart diseases,2,2,Qatar
+249,3320,2007,Other heart diseases,1,2,Qatar
+250,3320,2007,Other heart diseases,2,1,Qatar
+251,3320,2007,Self-harm,2,1,Qatar
+252,3320,2007,Other heart diseases,1,3,Qatar
+253,3320,2007,Other heart diseases,2,1,Qatar
+254,3320,2007,Other heart diseases,2,3,Qatar
+255,3320,2007,Other heart diseases,2,1,Qatar
+256,3320,2007,Other heart diseases,1,3,Qatar
+257,3320,2007,Ischmic Heart diseases,2,37,Qatar
+258,3320,2007,Ischmic Heart diseases,1,66,Qatar
+259,3320,2007,Ischmic Heart diseases,2,11,Qatar
+260,3320,2007,Ischmic Heart diseases,1,26,Qatar
+261,3320,2007,Other heart diseases,1,2,Qatar
+262,3320,2007,Hypertensive disorders,1,1,Qatar
+263,3320,2007,Self-harm,1,4,Qatar
+264,3320,2007,Self-harm,1,1,Qatar
+265,3320,2007,Self-harm,2,1,Qatar
+266,3320,2007,Self-harm,1,1,Qatar
+267,3320,2007,Self-harm,1,3,Qatar
+268,3320,2007,Self-harm,2,1,Qatar
+269,3320,2007,Self-harm,2,2,Qatar
+270,3320,2007,Self-harm,2,3,Qatar
+271,3320,2007,Self-harm,1,2,Qatar
+272,3320,2007,Self-harm,1,3,Qatar
+273,3320,2007,Self-harm,2,1,Qatar
+274,3320,2007,Self-harm,2,1,Qatar
+275,3320,2007,Hypertensive disorders,2,26,Qatar
+276,3320,2007,Hypertensive disorders,1,36,Qatar
+277,3320,2007,Rhumatic Fever,2,1,Qatar
+278,3320,2007,Mental disorders,2,1,Qatar
+279,3320,2008,Hepatic viral infection,1,6,Qatar
+280,3320,2008,Hepatic viral infection,1,1,Qatar
+281,3320,2008,AIDS\HIV,1,1,Qatar
+282,3320,2008,Hepatic viral infection,1,2,Qatar
+283,3320,2008,Hepatic viral infection,2,1,Qatar
+284,3320,2008,Other heart diseases,2,1,Qatar
+285,3320,2008,Other heart diseases,2,4,Qatar
+286,3320,2008,Other heart diseases,2,1,Qatar
+287,3320,2008,Self-harm,2,1,Qatar
+288,3320,2008,Self-harm,2,1,Qatar
+289,3320,2008,Self-harm,2,1,Qatar
+290,3320,2008,Self-harm,2,1,Qatar
+291,3320,2008,Self-harm,2,2,Qatar
+292,3320,2008,Other heart diseases,2,2,Qatar
+293,3320,2008,Other heart diseases,2,1,Qatar
+294,3320,2008,Other heart diseases,2,2,Qatar
+295,3320,2008,Other heart diseases,2,1,Qatar
+296,3320,2008,Hypertensive disorders,2,30,Qatar
+297,3320,2008,Hypertensive disorders,2,1,Qatar
+298,3320,2008,Ischmic Heart diseases,2,5,Qatar
+299,3320,2008,Ischmic Heart diseases,2,1,Qatar
+300,3320,2008,Ischmic Heart diseases,2,42,Qatar
+301,3320,2008,Hypertensive disorders,1,1,Qatar
+302,3320,2008,Ischmic Heart diseases,1,37,Qatar
+303,3320,2008,Ischmic Heart diseases,1,53,Qatar
+304,3320,2008,Other heart diseases,1,2,Qatar
+305,3320,2008,Other heart diseases,1,2,Qatar
+306,3320,2008,Other heart diseases,1,1,Qatar
+307,3320,2008,Other heart diseases,1,1,Qatar
+308,3320,2008,Other heart diseases,1,3,Qatar
+309,3320,2008,Other heart diseases,1,3,Qatar
+310,3320,2008,Other heart diseases,1,1,Qatar
+311,3320,2008,Other heart diseases,1,1,Qatar
+312,3320,2008,Other heart diseases,1,7,Qatar
+313,3320,2008,Other heart diseases,1,1,Qatar
+314,3320,2008,Self-harm,1,3,Qatar
+315,3320,2008,Self-harm,1,12,Qatar
+316,3320,2008,Self-harm,1,3,Qatar
+317,3320,2008,Self-harm,1,2,Qatar
+318,3320,2008,Self-harm,1,1,Qatar
+319,3320,2008,Self-harm,1,3,Qatar
+320,3320,2008,Self-harm,1,3,Qatar
+321,3320,2008,Self-harm,1,2,Qatar
+322,3320,2008,Self-harm,1,1,Qatar
+323,3320,2008,Self-harm,1,2,Qatar
+324,3320,2008,Hypertensive disorders,1,33,Qatar
+325,3320,2008,Rhumatic Fever,1,1,Qatar
+326,3320,2008,Self-harm,1,1,Qatar
+327,3320,2009,AIDS\HIV,1,1,Qatar
+328,3320,2009,Hepatic viral infection,1,1,Qatar
+329,3320,2009,Hepatic viral infection,1,3,Qatar
+330,3320,2009,Hepatic viral infection,1,2,Qatar
+331,3320,2009,Hepatic viral infection,1,1,Qatar
+332,3320,2009,Self-harm,1,1,Qatar
+333,3320,2009,Self-harm,1,1,Qatar
+334,3320,2009,Self-harm,1,1,Qatar
+335,3320,2009,Self-harm,1,13,Qatar
+336,3320,2009,Self-harm,1,2,Qatar
+337,3320,2009,Self-harm,1,3,Qatar
+338,3320,2009,Self-harm,1,3,Qatar
+339,3320,2009,Self-harm,1,12,Qatar
+340,3320,2009,Self-harm,1,6,Qatar
+341,3320,2009,Other heart diseases,1,6,Qatar
+342,3320,2009,Other heart diseases,1,2,Qatar
+343,3320,2009,Other heart diseases,1,3,Qatar
+344,3320,2009,Other heart diseases,1,4,Qatar
+345,3320,2009,Other heart diseases,1,1,Qatar
+346,3320,2009,Other heart diseases,1,1,Qatar
+347,3320,2009,Other heart diseases,1,5,Qatar
+348,3320,2009,Other heart diseases,1,3,Qatar
+349,3320,2009,Other heart diseases,1,1,Qatar
+350,3320,2009,Other heart diseases,1,1,Qatar
+351,3320,2009,Ischmic Heart diseases,1,65,Qatar
+352,3320,2009,Ischmic Heart diseases,1,1,Qatar
+353,3320,2009,Ischmic Heart diseases,1,31,Qatar
+354,3320,2009,Rhumatic Fever,1,1,Qatar
+355,3320,2009,Rhumatic Fever,1,1,Qatar
+356,3320,2009,Hypertensive disorders,1,25,Qatar
+357,3320,2009,Hepatic viral infection,2,1,Qatar
+358,3320,2009,Hepatic viral infection,2,2,Qatar
+359,3320,2009,Hepatic viral infection,2,1,Qatar
+360,3320,2009,Self-harm,2,1,Qatar
+361,3320,2009,Self-harm,2,8,Qatar
+362,3320,2009,Self-harm,2,2,Qatar
+363,3320,2009,Self-harm,2,4,Qatar
+364,3320,2009,Self-harm,2,3,Qatar
+365,3320,2009,Other heart diseases,2,2,Qatar
+366,3320,2009,Other heart diseases,2,1,Qatar
+367,3320,2009,Other heart diseases,2,1,Qatar
+368,3320,2009,Other heart diseases,2,1,Qatar
+369,3320,2009,Other heart diseases,2,3,Qatar
+370,3320,2009,Other heart diseases,2,1,Qatar
+371,3320,2009,Ischmic Heart diseases,2,27,Qatar
+372,3320,2009,Ischmic Heart diseases,2,13,Qatar
+373,3320,2009,Hypertensive disorders,2,1,Qatar
+374,3320,2009,Hypertensive disorders,2,11,Qatar
+375,3320,2010,Hypertensive disorders,2,10,Qatar
+376,3320,2010,Ischmic Heart diseases,2,9,Qatar
+377,3320,2010,Ischmic Heart diseases,2,22,Qatar
+378,3320,2010,Other heart diseases,2,1,Qatar
+379,3320,2010,Other heart diseases,2,5,Qatar
+380,3320,2010,Other heart diseases,2,1,Qatar
+381,3320,2010,Other heart diseases,2,3,Qatar
+382,3320,2010,Other heart diseases,2,1,Qatar
+383,3320,2010,Other heart diseases,2,3,Qatar
+384,3320,2010,Other heart diseases,2,5,Qatar
+385,3320,2010,Other heart diseases,2,3,Qatar
+386,3320,2010,Other heart diseases,2,1,Qatar
+387,3320,2010,Self-harm,2,1,Qatar
+388,3320,2010,Self-harm,2,10,Qatar
+389,3320,2010,Self-harm,2,1,Qatar
+390,3320,2010,Self-harm,2,1,Qatar
+391,3320,2010,Self-harm,2,1,Qatar
+392,3320,2010,Self-harm,2,1,Qatar
+393,3320,2010,Self-harm,2,1,Qatar
+394,3320,2010,Self-harm,2,6,Qatar
+395,3320,2010,Self-harm,1,4,Qatar
+396,3320,2010,Self-harm,1,1,Qatar
+397,3320,2010,Self-harm,1,1,Qatar
+398,3320,2010,Self-harm,1,2,Qatar
+399,3320,2010,Self-harm,1,1,Qatar
+400,3320,2010,Self-harm,1,11,Qatar
+401,3320,2010,Hepatic viral infection,2,4,Qatar
+402,3320,2010,Hepatic viral infection,2,1,Qatar
+403,3320,2010,Self-harm,1,2,Qatar
+404,3320,2010,Self-harm,1,5,Qatar
+405,3320,2010,Self-harm,1,1,Qatar
+406,3320,2010,Mental disorders,1,1,Qatar
+407,3320,2010,Mental disorders,1,1,Qatar
+408,3320,2010,Hypertensive disorders,1,18,Qatar
+409,3320,2010,Ischmic Heart diseases,1,30,Qatar
+410,3320,2010,Self-harm,1,14,Qatar
+411,3320,2010,Self-harm,1,13,Qatar
+412,3320,2010,Other heart diseases,1,6,Qatar
+413,3320,2010,Other heart diseases,1,3,Qatar
+414,3320,2010,Other heart diseases,1,2,Qatar
+415,3320,2010,Other heart diseases,1,12,Qatar
+416,3320,2010,Other heart diseases,1,1,Qatar
+417,3320,2010,Other heart diseases,1,1,Qatar
+418,3320,2010,Other heart diseases,1,1,Qatar
+419,3320,2010,Other heart diseases,1,3,Qatar
+420,3320,2010,Ischmic Heart diseases,1,59,Qatar
+421,3320,2010,Ischmic Heart diseases,1,7,Qatar
+422,3320,2010,Ischmic Heart diseases,1,2,Qatar
+423,3320,2010,Other heart diseases,1,2,Qatar
+424,3320,2010,Hepatic viral infection,1,2,Qatar
+425,3320,2010,AIDS\HIV,1,1,Qatar
+426,3320,2011,Hepatic viral infection,2,2,Qatar
+427,3320,2011,Hepatic viral infection,2,3,Qatar
+428,3320,2011,Hepatic viral infection,1,2,Qatar
+429,3320,2011,Hepatic viral infection,1,2,Qatar
+430,3320,2011,Self-harm,1,2,Qatar
+431,3320,2011,Self-harm,1,1,Qatar
+432,3320,2011,Self-harm,1,3,Qatar
+433,3320,2011,Self-harm,1,3,Qatar
+434,3320,2011,Self-harm,1,3,Qatar
+435,3320,2011,Self-harm,1,3,Qatar
+436,3320,2011,Self-harm,1,17,Qatar
+437,3320,2011,Self-harm,1,5,Qatar
+438,3320,2011,Other heart diseases,1,1,Qatar
+439,3320,2011,Other heart diseases,1,1,Qatar
+440,3320,2011,Other heart diseases,1,4,Qatar
+441,3320,2011,Self-harm,1,1,Qatar
+442,3320,2011,Other heart diseases,1,3,Qatar
+443,3320,2011,Other heart diseases,1,2,Qatar
+444,3320,2011,Other heart diseases,1,1,Qatar
+445,3320,2011,Other heart diseases,1,1,Qatar
+446,3320,2011,Other heart diseases,1,3,Qatar
+447,3320,2011,Ischmic Heart diseases,1,38,Qatar
+448,3320,2011,Ischmic Heart diseases,1,3,Qatar
+449,3320,2011,Ischmic Heart diseases,1,2,Qatar
+450,3320,2011,Ischmic Heart diseases,1,40,Qatar
+451,3320,2011,Ischmic Heart diseases,1,2,Qatar
+452,3320,2011,Hypertensive disorders,1,1,Qatar
+453,3320,2011,Hypertensive disorders,1,1,Qatar
+454,3320,2011,Hypertensive disorders,1,1,Qatar
+455,3320,2011,Hypertensive disorders,1,20,Qatar
+456,3320,2011,Rhumatic Fever,1,2,Qatar
+457,3320,2011,Rhumatic Fever,1,1,Qatar
+458,3320,2011,Other heart diseases,1,1,Qatar
+459,3320,2011,Self-harm,2,4,Qatar
+460,3320,2011,Self-harm,2,1,Qatar
+461,3320,2011,Self-harm,2,9,Qatar
+462,3320,2011,Self-harm,2,2,Qatar
+463,3320,2011,Other heart diseases,2,1,Qatar
+464,3320,2011,Other heart diseases,2,5,Qatar
+465,3320,2011,Other heart diseases,2,1,Qatar
+466,3320,2011,Other heart diseases,2,1,Qatar
+467,3320,2011,Other heart diseases,2,2,Qatar
+468,3320,2011,Self-harm,2,5,Qatar
+469,3320,2011,Other heart diseases,2,4,Qatar
+470,3320,2011,Ischmic Heart diseases,2,2,Qatar
+471,3320,2011,Ischmic Heart diseases,2,7,Qatar
+472,3320,2011,Hypertensive disorders,2,2,Qatar
+473,3320,2011,Hypertensive disorders,2,12,Qatar
+474,3320,2011,Rhumatic Fever,2,1,Qatar
+475,3320,2011,Ischmic Heart diseases,2,10,Qatar
+476,3320,2011,Self-harm,2,1,Qatar
+477,3320,2011,Self-harm,2,1,Qatar
+478,3320,2012,Other heart diseases,2,1,Qatar
+479,3320,2012,Other heart diseases,2,1,Qatar
+480,3320,2012,Other heart diseases,2,2,Qatar
+481,3320,2012,Other heart diseases,2,2,Qatar
+482,3320,2012,Ischmic Heart diseases,2,17,Qatar
+483,3320,2012,Ischmic Heart diseases,2,5,Qatar
+484,3320,2012,Hypertensive disorders,2,13,Qatar
+485,3320,2012,Other heart diseases,2,2,Qatar
+486,3320,2012,Other heart diseases,2,1,Qatar
+487,3320,2012,Other heart diseases,2,1,Qatar
+488,3320,2012,Self-harm,2,1,Qatar
+489,3320,2012,Self-harm,2,1,Qatar
+490,3320,2012,Self-harm,2,1,Qatar
+491,3320,2012,Self-harm,2,1,Qatar
+492,3320,2012,Self-harm,2,6,Qatar
+493,3320,2012,Self-harm,2,1,Qatar
+494,3320,2012,Self-harm,2,2,Qatar
+495,3320,2012,Other heart diseases,2,1,Qatar
+496,3320,2012,Other heart diseases,2,6,Qatar
+497,3320,2012,Hepatic viral infection,2,2,Qatar
+498,3320,2012,Self-harm,1,1,Qatar
+499,3320,2012,Self-harm,1,5,Qatar
+500,3320,2012,Self-harm,1,5,Qatar
+501,3320,2012,Self-harm,1,3,Qatar
+502,3320,2012,Self-harm,1,5,Qatar
+503,3320,2012,Self-harm,1,14,Qatar
+504,3320,2012,Other heart diseases,1,1,Qatar
+505,3320,2012,Other heart diseases,1,6,Qatar
+506,3320,2012,Other heart diseases,1,1,Qatar
+507,3320,2012,Other heart diseases,1,10,Qatar
+508,3320,2012,Other heart diseases,1,1,Qatar
+509,3320,2012,Other heart diseases,1,3,Qatar
+510,3320,2012,Other heart diseases,1,4,Qatar
+511,3320,2012,Other heart diseases,1,5,Qatar
+512,3320,2012,Ischmic Heart diseases,1,30,Qatar
+513,3320,2012,Ischmic Heart diseases,1,4,Qatar
+514,3320,2012,Ischmic Heart diseases,1,62,Qatar
+515,3320,2012,Ischmic Heart diseases,1,1,Qatar
+516,3320,2012,Hypertensive disorders,1,1,Qatar
+517,3320,2012,Hypertensive disorders,1,15,Qatar
+518,3320,2012,Self-harm,1,2,Qatar
+519,3320,2012,Self-harm,1,1,Qatar
+520,3320,2012,Self-harm,1,1,Qatar
+521,3320,2012,Hepatic viral infection,1,1,Qatar
+522,3320,2012,Hepatic viral infection,1,3,Qatar
+523,3320,2013,Hepatic viral infection,2,2,Qatar
+524,3320,2013,Hepatic viral infection,2,1,Qatar
+525,3320,2013,Hepatic viral infection,2,2,Qatar
+526,3320,2013,Rhumatic Fever,2,1,Qatar
+527,3320,2013,Rhumatic Fever,2,1,Qatar
+528,3320,2013,Hypertensive disorders,2,15,Qatar
+529,3320,2013,Hypertensive disorders,2,1,Qatar
+530,3320,2013,Hypertensive disorders,2,1,Qatar
+531,3320,2013,Ischmic Heart diseases,2,7,Qatar
+532,3320,2013,Ischmic Heart diseases,2,15,Qatar
+533,3320,2013,Other heart diseases,2,4,Qatar
+534,3320,2013,Other heart diseases,2,1,Qatar
+535,3320,2013,Other heart diseases,2,6,Qatar
+536,3320,2013,Other heart diseases,2,2,Qatar
+537,3320,2013,Other heart diseases,2,2,Qatar
+538,3320,2013,Self-harm,2,4,Qatar
+539,3320,2013,Self-harm,2,3,Qatar
+540,3320,2013,Self-harm,2,2,Qatar
+541,3320,2013,Other heart diseases,2,1,Qatar
+542,3320,2013,Hepatic viral infection,1,1,Qatar
+543,3320,2013,Hepatic viral infection,1,1,Qatar
+544,3320,2013,Hepatic viral infection,1,2,Qatar
+545,3320,2013,Self-harm,1,2,Qatar
+546,3320,2013,Self-harm,1,2,Qatar
+547,3320,2013,Self-harm,1,1,Qatar
+548,3320,2013,Self-harm,1,1,Qatar
+549,3320,2013,Self-harm,1,2,Qatar
+550,3320,2013,Self-harm,1,5,Qatar
+551,3320,2013,Self-harm,1,2,Qatar
+552,3320,2013,Self-harm,1,2,Qatar
+553,3320,2013,Rhumatic Fever,1,2,Qatar
+554,3320,2013,Rhumatic Fever,1,2,Qatar
+555,3320,2013,Hypertensive disorders,1,24,Qatar
+556,3320,2013,Hypertensive disorders,1,7,Qatar
+557,3320,2013,Hypertensive disorders,1,1,Qatar
+558,3320,2013,Ischmic Heart diseases,1,49,Qatar
+559,3320,2013,Ischmic Heart diseases,1,1,Qatar
+560,3320,2013,Ischmic Heart diseases,1,4,Qatar
+561,3320,2013,Ischmic Heart diseases,1,34,Qatar
+562,3320,2013,Other heart diseases,1,7,Qatar
+563,3320,2013,Other heart diseases,1,5,Qatar
+564,3320,2013,Other heart diseases,1,1,Qatar
+565,3320,2013,Other heart diseases,1,4,Qatar
+566,3320,2013,Other heart diseases,1,1,Qatar
+567,3320,2013,Other heart diseases,1,6,Qatar
+568,3320,2013,Other heart diseases,1,6,Qatar
+569,3320,2013,Other heart diseases,1,11,Qatar
+570,3320,2013,Other heart diseases,1,4,Qatar
+571,3320,2013,Self-harm,1,10,Qatar
+572,3320,2013,Self-harm,1,10,Qatar
+573,3320,2014,Hepatic viral infection,2,1,Qatar
+574,3320,2014,Hepatic viral infection,2,1,Qatar
+575,3320,2014,Hepatic viral infection,2,1,Qatar
+576,3320,2014,AIDS\HIV,1,1,Qatar
+577,3320,2014,Self-harm,1,1,Qatar
+578,3320,2014,Self-harm,1,1,Qatar
+579,3320,2014,Self-harm,1,2,Qatar
+580,3320,2014,Self-harm,1,5,Qatar
+581,3320,2014,Self-harm,1,1,Qatar
+582,3320,2014,Self-harm,1,14,Qatar
+583,3320,2014,Hypertensive disorders,1,69,Qatar
+584,3320,2014,Ischmic Heart diseases,1,1,Qatar
+585,3320,2014,Ischmic Heart diseases,1,54,Qatar
+586,3320,2014,Ischmic Heart diseases,1,3,Qatar
+587,3320,2014,Ischmic Heart diseases,1,39,Qatar
+588,3320,2014,Other heart diseases,1,6,Qatar
+589,3320,2014,Other heart diseases,1,1,Qatar
+590,3320,2014,Other heart diseases,1,1,Qatar
+591,3320,2014,Other heart diseases,1,1,Qatar
+592,3320,2014,Other heart diseases,1,1,Qatar
+593,3320,2014,Other heart diseases,1,21,Qatar
+594,3320,2014,Other heart diseases,1,1,Qatar
+595,3320,2014,Other heart diseases,1,7,Qatar
+596,3320,2014,Other heart diseases,1,1,Qatar
+597,3320,2014,Other heart diseases,1,3,Qatar
+598,3320,2014,Other heart diseases,1,11,Qatar
+599,3320,2014,Self-harm,1,5,Qatar
+600,3320,2014,Other heart diseases,1,6,Qatar
+601,3320,2014,Hepatic viral infection,1,1,Qatar
+602,3320,2014,Other heart diseases,2,2,Qatar
+603,3320,2014,Other heart diseases,2,9,Qatar
+604,3320,2014,Other heart diseases,2,3,Qatar
+605,3320,2014,Other heart diseases,2,1,Qatar
+606,3320,2014,Self-harm,2,4,Qatar
+607,3320,2014,Self-harm,2,6,Qatar
+608,3320,2014,Self-harm,2,4,Qatar
+609,3320,2014,Self-harm,2,3,Qatar
+610,3320,2014,Self-harm,2,3,Qatar
+611,3320,2014,Self-harm,2,1,Qatar
+612,3320,2014,Self-harm,2,1,Qatar
+613,3320,2014,Other heart diseases,2,1,Qatar
+614,3320,2014,Other heart diseases,2,2,Qatar
+615,3320,2014,Ischmic Heart diseases,2,13,Qatar
+616,3320,2014,Hypertensive disorders,2,44,Qatar
+617,3320,2014,Ischmic Heart diseases,2,13,Qatar
+618,3320,2014,Other heart diseases,2,2,Qatar
+619,3320,2014,Hepatic viral infection,1,7,Qatar
+620,3320,2014,Hepatic viral infection,1,1,Qatar
+621,3320,2014,Sexual Transmmited diseases,1,1,Qatar
+622,3320,2015,Self-harm,2,1,Qatar
+623,3320,2015,Self-harm,2,4,Qatar
+624,3320,2015,Self-harm,2,4,Qatar
+625,3320,2015,Other heart diseases,2,5,Qatar
+626,3320,2015,Other heart diseases,2,1,Qatar
+627,3320,2015,Other heart diseases,2,9,Qatar
+628,3320,2015,Other heart diseases,2,2,Qatar
+629,3320,2015,Other heart diseases,2,3,Qatar
+630,3320,2015,Ischmic Heart diseases,2,10,Qatar
+631,3320,2015,Ischmic Heart diseases,2,1,Qatar
+632,3320,2015,Ischmic Heart diseases,2,10,Qatar
+633,3320,2015,Hypertensive disorders,2,32,Qatar
+634,3320,2015,Rhumatic Fever,2,2,Qatar
+635,3320,2015,Self-harm,2,6,Qatar
+636,3320,2015,Other heart diseases,1,1,Qatar
+637,3320,2015,Other heart diseases,1,4,Qatar
+638,3320,2015,Other heart diseases,1,8,Qatar
+639,3320,2015,Other heart diseases,1,1,Qatar
+640,3320,2015,Other heart diseases,1,1,Qatar
+641,3320,2015,Other heart diseases,1,2,Qatar
+642,3320,2015,Other heart diseases,1,1,Qatar
+643,3320,2015,Other heart diseases,1,9,Qatar
+644,3320,2015,Other heart diseases,1,7,Qatar
+645,3320,2015,Ischmic Heart diseases,1,45,Qatar
+646,3320,2015,Ischmic Heart diseases,1,8,Qatar
+647,3320,2015,Ischmic Heart diseases,1,1,Qatar
+648,3320,2015,Ischmic Heart diseases,1,46,Qatar
+649,3320,2015,Hypertensive disorders,1,46,Qatar
+650,3320,2015,Rhumatic Fever,1,1,Qatar
+651,3320,2015,Rhumatic Fever,1,1,Qatar
+652,3320,2015,Hepatic viral infection,1,5,Qatar
+653,3320,2015,Other heart diseases,1,4,Qatar
+654,3320,2015,Other heart diseases,1,12,Qatar
+655,3320,2015,Other heart diseases,1,1,Qatar
+656,3320,2015,Hepatic viral infection,2,5,Qatar
+657,3320,2015,Self-harm,1,1,Qatar
+658,3320,2015,Self-harm,1,1,Qatar
+659,3320,2015,Self-harm,1,1,Qatar
+660,3320,2015,Self-harm,1,3,Qatar
+661,3320,2015,Self-harm,1,12,Qatar
+662,3320,2015,Self-harm,1,2,Qatar
+663,3320,2015,Self-harm,1,7,Qatar
+664,3320,2015,Self-harm,1,8,Qatar
+665,3320,2015,Self-harm,1,9,Qatar
+666,3320,2015,Other heart diseases,1,24,Qatar
+667,3320,2016,Hepatic viral infection,2,1,Qatar
+668,3320,2016,Hepatic viral infection,2,3,Qatar
+669,3320,2016,Hypertensive disorders,2,8,Qatar
+670,3320,2016,Ischmic Heart diseases,2,15,Qatar
+671,3320,2016,Ischmic Heart diseases,2,15,Qatar
+672,3320,2016,Other heart diseases,2,5,Qatar
+673,3320,2016,Other heart diseases,2,4,Qatar
+674,3320,2016,Other heart diseases,2,1,Qatar
+675,3320,2016,Hypertensive disorders,2,3,Qatar
+676,3320,2016,Other heart diseases,2,1,Qatar
+677,3320,2016,Other heart diseases,2,1,Qatar
+678,3320,2016,Other heart diseases,2,7,Qatar
+679,3320,2016,Other heart diseases,2,29,Qatar
+680,3320,2016,Other heart diseases,2,8,Qatar
+681,3320,2016,Self-harm,2,6,Qatar
+682,3320,2016,Self-harm,2,7,Qatar
+683,3320,2016,Other heart diseases,2,6,Qatar
+684,3320,2016,Hypertensive disorders,2,3,Qatar
+685,3320,2016,Hypertensive disorders,2,10,Qatar
+686,3320,2016,Self-harm,2,3,Qatar
+687,3320,2016,Self-harm,2,6,Qatar
+688,3320,2016,Self-harm,2,2,Qatar
+689,3320,2016,Self-harm,2,1,Qatar
+690,3320,2016,Self-harm,2,1,Qatar
+691,3320,2016,Self-harm,2,1,Qatar
+692,3320,2016,Rhumatic Fever,1,1,Qatar
+693,3320,2016,Rhumatic Fever,1,1,Qatar
+694,3320,2016,Hypertensive disorders,1,31,Qatar
+695,3320,2016,Hypertensive disorders,1,1,Qatar
+696,3320,2016,Hypertensive disorders,1,7,Qatar
+697,3320,2016,Hypertensive disorders,1,3,Qatar
+698,3320,2016,Self-harm,1,16,Qatar
+699,3320,2016,Self-harm,1,1,Qatar
+700,3320,2016,Self-harm,1,6,Qatar
+701,3320,2016,Self-harm,1,27,Qatar
+702,3320,2016,Self-harm,1,16,Qatar
+703,3320,2016,Self-harm,1,2,Qatar
+704,3320,2016,Self-harm,1,10,Qatar
+705,3320,2016,Self-harm,1,2,Qatar
+706,3320,2016,Self-harm,1,1,Qatar
+707,3320,2016,Self-harm,1,6,Qatar
+708,3320,2016,Other heart diseases,1,13,Qatar
+709,3320,2016,Other heart diseases,1,178,Qatar
+710,3320,2016,Other heart diseases,1,22,Qatar
+711,3320,2016,Ischmic Heart diseases,1,71,Qatar
+712,3320,2016,Ischmic Heart diseases,1,8,Qatar
+713,3320,2016,Ischmic Heart diseases,1,17,Qatar
+714,3320,2016,Ischmic Heart diseases,1,71,Qatar
+715,3320,2016,Other heart diseases,1,11,Qatar
+716,3320,2016,Other heart diseases,1,1,Qatar
+717,3320,2016,Other heart diseases,1,2,Qatar
+718,3320,2016,Other heart diseases,1,2,Qatar
+719,3320,2016,Other heart diseases,1,1,Qatar
+720,3320,2016,Other heart diseases,1,1,Qatar
+721,3320,2016,Other heart diseases,1,5,Qatar
+722,3320,2016,Other heart diseases,1,1,Qatar
+723,3320,2016,Other heart diseases,1,34,Qatar
+724,3320,2016,Other heart diseases,1,3,Qatar
+725,3320,2016,Other heart diseases,1,2,Qatar
+726,3320,2016,Hepatic viral infection,1,4,Qatar
+727,3320,2017,AIDS\HIV,1,1,Qatar
+728,3320,2017,AIDS\HIV,1,1,Qatar
+729,3320,2017,Hepatic viral infection,1,4,Qatar
+730,3320,2017,Ischmic Heart diseases,1,50,Qatar
+731,3320,2017,Ischmic Heart diseases,1,2,Qatar
+732,3320,2017,Hypertensive disorders,1,5,Qatar
+733,3320,2017,Hypertensive disorders,1,5,Qatar
+734,3320,2017,Hypertensive disorders,1,29,Qatar
+735,3320,2017,Rhumatic Fever,1,1,Qatar
+736,3320,2017,Rhumatic Fever,1,2,Qatar
+737,3320,2017,Ischmic Heart diseases,1,4,Qatar
+738,3320,2017,Ischmic Heart diseases,1,6,Qatar
+739,3320,2017,Ischmic Heart diseases,1,115,Qatar
+740,3320,2017,Other heart diseases,1,5,Qatar
+741,3320,2017,Self-harm,1,4,Qatar
+742,3320,2017,Self-harm,1,10,Qatar
+743,3320,2017,Self-harm,1,4,Qatar
+744,3320,2017,Self-harm,1,3,Qatar
+745,3320,2017,Self-harm,1,8,Qatar
+746,3320,2017,Self-harm,1,4,Qatar
+747,3320,2017,Other heart diseases,1,6,Qatar
+748,3320,2017,Other heart diseases,1,219,Qatar
+749,3320,2017,Other heart diseases,1,12,Qatar
+750,3320,2017,Other heart diseases,1,5,Qatar
+751,3320,2017,Other heart diseases,1,2,Qatar
+752,3320,2017,Other heart diseases,1,27,Qatar
+753,3320,2017,Other heart diseases,1,2,Qatar
+754,3320,2017,Other heart diseases,1,1,Qatar
+755,3320,2017,Other heart diseases,1,1,Qatar
+756,3320,2017,Other heart diseases,1,1,Qatar
+757,3320,2017,Other heart diseases,1,1,Qatar
+758,3320,2017,Other heart diseases,1,1,Qatar
+759,3320,2017,Other heart diseases,1,1,Qatar
+760,3320,2017,Other heart diseases,1,1,Qatar
+761,3320,2017,Other heart diseases,1,1,Qatar
+762,3320,2017,Self-harm,1,2,Qatar
+763,3320,2017,Self-harm,1,5,Qatar
+764,3320,2017,Self-harm,1,2,Qatar
+765,3320,2017,Self-harm,1,1,Qatar
+766,3320,2017,Self-harm,1,1,Qatar
+767,3320,2017,Hypertensive disorders,2,16,Qatar
+768,3320,2017,Hypertensive disorders,2,5,Qatar
+769,3320,2017,Hypertensive disorders,2,2,Qatar
+770,3320,2017,Ischmic Heart diseases,2,14,Qatar
+771,3320,2017,Self-harm,2,1,Qatar
+772,3320,2017,Self-harm,2,1,Qatar
+773,3320,2017,Self-harm,2,4,Qatar
+774,3320,2017,Self-harm,2,4,Qatar
+775,3320,2017,Self-harm,2,3,Qatar
+776,3320,2017,Self-harm,2,2,Qatar
+777,3320,2017,Self-harm,2,4,Qatar
+778,3320,2017,Self-harm,2,4,Qatar
+779,3320,2017,Self-harm,2,2,Qatar
+780,3320,2017,Other heart diseases,2,2,Qatar
+781,3320,2017,Other heart diseases,2,43,Qatar
+782,3320,2017,Other heart diseases,2,2,Qatar
+783,3320,2017,Other heart diseases,2,2,Qatar
+784,3320,2017,Other heart diseases,2,11,Qatar
+785,3320,2017,Other heart diseases,2,1,Qatar
+786,3320,2017,Other heart diseases,2,3,Qatar
+787,3320,2017,Other heart diseases,2,3,Qatar
+788,3320,2017,Other heart diseases,2,2,Qatar
+789,3320,2017,Ischmic Heart diseases,2,16,Qatar
+790,3320,2017,Ischmic Heart diseases,2,1,Qatar
+791,3320,2017,AIDS\HIV,2,1,Qatar
+792,3320,2017,Hepatic viral infection,2,1,Qatar
+793,3320,2017,Self-harm,1,3,Qatar
+794,3320,2019,Hepatic viral infection,1,4,Qatar
+795,3320,2019,Hepatic viral infection,1,2,Qatar
+796,3320,2019,Self-harm,2,1,Qatar
+797,3320,2019,Self-harm,1,1,Qatar
+798,3320,2019,Self-harm,1,1,Qatar
+799,3320,2019,Self-harm,1,1,Qatar
+800,3320,2019,Self-harm,1,2,Qatar
+801,3320,2019,Self-harm,1,2,Qatar
+802,3320,2019,Self-harm,1,1,Qatar
+803,3320,2019,Self-harm,1,5,Qatar
+804,3320,2019,Self-harm,1,13,Qatar
+805,3320,2019,Self-harm,1,4,Qatar
+806,3320,2019,Self-harm,1,3,Qatar
+807,3320,2019,Self-harm,1,11,Qatar
+808,3320,2019,Self-harm,1,11,Qatar
+809,3320,2019,Other heart diseases,1,13,Qatar
+810,3320,2019,Other heart diseases,1,151,Qatar
+811,3320,2019,Other heart diseases,1,8,Qatar
+812,3320,2019,Other heart diseases,1,4,Qatar
+813,3320,2019,Other heart diseases,1,1,Qatar
+814,3320,2019,Other heart diseases,1,61,Qatar
+815,3320,2019,Other heart diseases,1,2,Qatar
+816,3320,2019,Other heart diseases,1,2,Qatar
+817,3320,2019,Other heart diseases,1,1,Qatar
+818,3320,2019,Other heart diseases,1,1,Qatar
+819,3320,2019,Other heart diseases,1,12,Qatar
+820,3320,2019,Ischmic Heart diseases,1,83,Qatar
+821,3320,2019,Ischmic Heart diseases,1,47,Qatar
+822,3320,2019,Ischmic Heart diseases,1,1,Qatar
+823,3320,2019,Hypertensive disorders,1,34,Qatar
+824,3320,2019,Hypertensive disorders,1,1,Qatar
+825,3320,2019,Hypertensive disorders,1,13,Qatar
+826,3320,2019,Hypertensive disorders,1,5,Qatar
+827,3320,2019,Ischmic Heart diseases,1,3,Qatar
+828,3320,2019,Self-harm,2,1,Qatar
+829,3320,2019,Self-harm,2,2,Qatar
+830,3320,2019,Self-harm,2,9,Qatar
+831,3320,2019,Self-harm,2,2,Qatar
+832,3320,2019,Self-harm,2,6,Qatar
+833,3320,2019,Self-harm,2,4,Qatar
+834,3320,2019,Other heart diseases,2,5,Qatar
+835,3320,2019,Other heart diseases,2,9,Qatar
+836,3320,2019,Other heart diseases,2,1,Qatar
+837,3320,2019,Other heart diseases,2,13,Qatar
+838,3320,2019,Other heart diseases,2,2,Qatar
+839,3320,2019,Other heart diseases,2,1,Qatar
+840,3320,2019,Other heart diseases,2,1,Qatar
+841,3320,2019,Other heart diseases,2,1,Qatar
+842,3320,2019,Other heart diseases,2,4,Qatar
+843,3320,2019,Ischmic Heart diseases,2,11,Qatar
+844,3320,2019,Ischmic Heart diseases,2,11,Qatar
+845,3320,2019,Hypertensive disorders,2,19,Qatar
+846,3320,2019,Hypertensive disorders,2,3,Qatar
+847,3320,2019,Hypertensive disorders,2,8,Qatar
+848,3320,2019,Hypertensive disorders,2,3,Qatar
+849,3320,2019,Rhumatic Fever,2,3,Qatar
+850,3320,2019,Other heart diseases,2,2,Qatar
+851,3320,2020,Self-harm,1,4,Qatar
+852,3320,2020,Self-harm,1,1,Qatar
+853,3320,2020,Self-harm,1,5,Qatar
+854,3320,2020,Self-harm,1,4,Qatar
+855,3320,2020,Self-harm,1,33,Qatar
+856,3320,2020,Rhumatic Fever,1,1,Qatar
+857,3320,2020,Rhumatic Fever,1,1,Qatar
+858,3320,2020,Rhumatic Fever,1,1,Qatar
+859,3320,2020,Hypertensive disorders,1,26,Qatar
+860,3320,2020,Hypertensive disorders,1,6,Qatar
+861,3320,2020,Hypertensive disorders,1,28,Qatar
+862,3320,2020,Self-harm,1,4,Qatar
+863,3320,2020,Self-harm,1,9,Qatar
+864,3320,2020,Self-harm,1,11,Qatar
+865,3320,2020,Other heart diseases,1,28,Qatar
+866,3320,2020,Other heart diseases,1,247,Qatar
+867,3320,2020,Other heart diseases,1,9,Qatar
+868,3320,2020,Other heart diseases,1,1,Qatar
+869,3320,2020,Other heart diseases,1,1,Qatar
+870,3320,2020,Other heart diseases,1,5,Qatar
+871,3320,2020,Other heart diseases,1,1,Qatar
+872,3320,2020,Other heart diseases,1,17,Qatar
+873,3320,2020,Ischmic Heart diseases,1,75,Qatar
+874,3320,2020,Ischmic Heart diseases,1,33,Qatar
+875,3320,2020,Ischmic Heart diseases,1,5,Qatar
+876,3320,2020,Ischmic Heart diseases,1,65,Qatar
+877,3320,2020,Hypertensive disorders,1,1,Qatar
+878,3320,2020,Other heart diseases,1,2,Qatar
+879,3320,2020,Hepatic viral infection,2,1,Qatar
+880,3320,2020,Self-harm,2,1,Qatar
+881,3320,2020,Self-harm,2,3,Qatar
+882,3320,2020,Self-harm,2,4,Qatar
+883,3320,2020,Self-harm,2,14,Qatar
+884,3320,2020,Self-harm,2,1,Qatar
+885,3320,2020,Self-harm,2,2,Qatar
+886,3320,2020,Self-harm,2,3,Qatar
+887,3320,2020,Other heart diseases,2,4,Qatar
+888,3320,2020,Other heart diseases,2,26,Qatar
+889,3320,2020,Other heart diseases,2,2,Qatar
+890,3320,2020,Other heart diseases,2,1,Qatar
+891,3320,2020,Other heart diseases,2,1,Qatar
+892,3320,2020,Other heart diseases,2,2,Qatar
+893,3320,2020,Other heart diseases,2,2,Qatar
+894,3320,2020,Other heart diseases,2,7,Qatar
+895,3320,2020,Ischmic Heart diseases,2,14,Qatar
+896,3320,2020,Self-harm,2,1,Qatar
+897,3320,2020,Ischmic Heart diseases,2,3,Qatar
+898,3320,2020,Hypertensive disorders,2,25,Qatar
+899,3320,2020,Hypertensive disorders,2,2,Qatar
+900,3320,2020,Hypertensive disorders,2,18,Qatar
+901,3320,2020,Rhumatic Fever,2,1,Qatar
+902,3320,2020,Ischmic Heart diseases,2,12,Qatar
+903,3320,2021,Hepatic viral infection,1,2,Qatar
+904,3320,2021,Hepatic viral infection,1,2,Qatar
+905,3320,2021,AIDS\HIV,1,1,Qatar
+906,3320,2021,AIDS\HIV,1,1,Qatar
+907,3320,2021,Rhumatic Fever,2,1,Qatar
+908,3320,2021,Hypertensive disorders,2,15,Qatar
+909,3320,2021,Hypertensive disorders,2,7,Qatar
+910,3320,2021,Hypertensive disorders,2,4,Qatar
+911,3320,2021,Ischmic Heart diseases,2,7,Qatar
+912,3320,2021,Ischmic Heart diseases,2,1,Qatar
+913,3320,2021,Ischmic Heart diseases,2,17,Qatar
+914,3320,2021,Other heart diseases,2,6,Qatar
+915,3320,2021,Other heart diseases,2,2,Qatar
+916,3320,2021,Other heart diseases,2,1,Qatar
+917,3320,2021,Rhumatic Fever,2,2,Qatar
+918,3320,2021,Other heart diseases,1,6,Qatar
+919,3320,2021,Self-harm,1,9,Qatar
+920,3320,2021,Self-harm,1,13,Qatar
+921,3320,2021,Self-harm,1,5,Qatar
+922,3320,2021,Self-harm,1,5,Qatar
+923,3320,2021,Self-harm,1,27,Qatar
+924,3320,2021,Self-harm,1,3,Qatar
+925,3320,2021,Self-harm,1,1,Qatar
+926,3320,2021,Self-harm,1,4,Qatar
+927,3320,2021,Self-harm,1,1,Qatar
+928,3320,2021,Other heart diseases,1,348,Qatar
+929,3320,2021,Self-harm,1,1,Qatar
+930,3320,2021,Other heart diseases,1,6,Qatar
+931,3320,2021,Other heart diseases,1,3,Qatar
+932,3320,2021,Other heart diseases,1,3,Qatar
+933,3320,2021,Rhumatic Fever,1,1,Qatar
+934,3320,2021,Rhumatic Fever,1,1,Qatar
+935,3320,2021,Rhumatic Fever,1,1,Qatar
+936,3320,2021,Hypertensive disorders,1,13,Qatar
+937,3320,2021,Hypertensive disorders,1,16,Qatar
+938,3320,2021,Hypertensive disorders,1,19,Qatar
+939,3320,2021,Ischmic Heart diseases,1,52,Qatar
+940,3320,2021,Ischmic Heart diseases,1,1,Qatar
+941,3320,2021,Ischmic Heart diseases,1,6,Qatar
+942,3320,2021,Ischmic Heart diseases,1,77,Qatar
+943,3320,2021,Other heart diseases,1,9,Qatar
+944,3320,2021,Other heart diseases,1,4,Qatar
+945,3320,2021,Other heart diseases,1,3,Qatar
+946,3320,2021,Other heart diseases,1,1,Qatar
+947,3320,2021,Other heart diseases,2,1,Qatar
+948,3320,2021,Other heart diseases,2,6,Qatar
+949,3320,2021,Other heart diseases,2,57,Qatar
+950,3320,2021,Other heart diseases,2,1,Qatar
+951,3320,2021,Self-harm,2,4,Qatar
+952,3320,2021,Self-harm,2,4,Qatar
+953,3320,2021,Self-harm,2,1,Qatar
+954,3320,2021,Self-harm,2,12,Qatar
+955,3320,2021,Self-harm,2,1,Qatar
+956,3190,1995,AIDS\HIV,1,1,Kuwait
+957,3190,1995,Hypertensive disorders,2,58,Kuwait
+958,3190,1995,Rhumatic Fever,1,1,Kuwait
+959,3190,1995,Rhumatic Fever,2,1,Kuwait
+960,3190,1995,Hypertensive disorders,1,76,Kuwait
+961,3190,1995,Self-harm,2,1,Kuwait
+962,3190,1996,Hypertensive disorders,1,93,Kuwait
+963,3190,1996,Hypertensive disorders,2,81,Kuwait
+964,3190,1996,Other heart diseases,2,1,Kuwait
+965,3190,1997,Other heart diseases,1,1,Kuwait
+966,3190,1997,Self-harm,1,3,Kuwait
+967,3190,1997,Self-harm,2,1,Kuwait
+968,3190,1997,Hypertensive disorders,1,91,Kuwait
+969,3190,1997,Hypertensive disorders,2,104,Kuwait
+970,3190,1998,Hypertensive disorders,2,88,Kuwait
+971,3190,1998,Hypertensive disorders,1,114,Kuwait
+972,3190,1998,Other heart diseases,1,2,Kuwait
+973,3190,1998,Self-harm,2,6,Kuwait
+974,3190,1998,Self-harm,1,2,Kuwait
+975,3190,1999,Hypertensive disorders,1,129,Kuwait
+976,3190,1999,Hypertensive disorders,2,122,Kuwait
+977,3190,1999,Other heart diseases,1,1,Kuwait
+978,3190,1999,Other heart diseases,1,2,Kuwait
+979,3190,1999,Self-harm,2,2,Kuwait
+980,3190,2000,Self-harm,1,1,Kuwait
+981,3190,2000,Self-harm,2,5,Kuwait
+982,3190,2000,Other heart diseases,2,4,Kuwait
+983,3190,2000,Other heart diseases,1,2,Kuwait
+984,3190,2000,Hypertensive disorders,2,103,Kuwait
+985,3190,2000,Hypertensive disorders,1,116,Kuwait
+986,3190,2001,Hypertensive disorders,2,104,Kuwait
+987,3190,2001,Hypertensive disorders,1,125,Kuwait
+988,3190,2001,Other heart diseases,2,1,Kuwait
+989,3190,2001,Self-harm,1,7,Kuwait
+990,3190,2001,Other heart diseases,1,2,Kuwait
+991,3190,2001,Other heart diseases,1,1,Kuwait
+992,3190,2002,Hypertensive disorders,1,117,Kuwait
+993,3190,2002,Hypertensive disorders,2,99,Kuwait
+994,3190,2002,Other heart diseases,1,7,Kuwait
+995,3190,2002,Self-harm,2,1,Kuwait
+996,3190,2002,Self-harm,1,2,Kuwait
+997,3190,2002,Self-harm,1,1,Kuwait
+998,3190,2003,Self-harm,2,5,Kuwait
+999,3190,2003,Self-harm,1,14,Kuwait
+1000,3190,2003,Hypertensive disorders,2,102,Kuwait
+1001,3190,2003,Hypertensive disorders,1,105,Kuwait
+1002,3190,2003,Other heart diseases,2,1,Kuwait
+1003,3190,2003,Other heart diseases,1,1,Kuwait
+1004,3190,2003,Mental disorders,2,1,Kuwait
+1005,3190,2004,Self-harm,1,19,Kuwait
+1006,3190,2004,Self-harm,2,5,Kuwait
+1007,3190,2004,Other heart diseases,2,5,Kuwait
+1008,3190,2004,Other heart diseases,2,1,Kuwait
+1009,3190,2004,Other heart diseases,1,3,Kuwait
+1010,3190,2004,Hypertensive disorders,1,54,Kuwait
+1011,3190,2004,Hypertensive disorders,2,76,Kuwait
+1012,3190,2005,Other heart diseases,2,1,Kuwait
+1013,3190,2005,Other heart diseases,1,3,Kuwait
+1014,3190,2005,Other heart diseases,2,1,Kuwait
+1015,3190,2005,Hypertensive disorders,1,24,Kuwait
+1016,3190,2005,Hypertensive disorders,2,28,Kuwait
+1017,3190,2005,Self-harm,1,8,Kuwait
+1018,3190,2005,Self-harm,2,3,Kuwait
+1019,3190,2005,AIDS\HIV,1,3,Kuwait
+1020,3190,2006,Other heart diseases,1,4,Kuwait
+1021,3190,2006,Other heart diseases,2,1,Kuwait
+1022,3190,2006,Other heart diseases,1,3,Kuwait
+1023,3190,2006,Other heart diseases,2,3,Kuwait
+1024,3190,2006,Hypertensive disorders,1,17,Kuwait
+1025,3190,2006,Hypertensive disorders,2,23,Kuwait
+1026,3190,2006,Self-harm,1,9,Kuwait
+1027,3190,2006,Self-harm,2,4,Kuwait
+1028,3190,2006,AIDS\HIV,1,1,Kuwait
+1029,3190,2007,Hypertensive disorders,2,11,Kuwait
+1030,3190,2007,Hypertensive disorders,1,8,Kuwait
+1031,3190,2007,Self-harm,2,6,Kuwait
+1032,3190,2007,Self-harm,1,12,Kuwait
+1033,3190,2007,Other heart diseases,2,2,Kuwait
+1034,3190,2007,Other heart diseases,1,5,Kuwait
+1035,3190,2007,Other heart diseases,2,3,Kuwait
+1036,3190,2007,Other heart diseases,1,2,Kuwait
+1037,3190,2008,AIDS\HIV,2,1,Kuwait
+1038,3190,2008,Self-harm,1,1,Kuwait
+1039,3190,2008,Other heart diseases,2,1,Kuwait
+1040,3190,2008,Other heart diseases,1,3,Kuwait
+1041,3190,2008,Other heart diseases,2,1,Kuwait
+1042,3190,2008,Other heart diseases,1,2,Kuwait
+1043,3190,2008,Rhumatic Fever,1,1,Kuwait
+1044,3190,2008,Hypertensive disorders,2,2,Kuwait
+1045,3190,2008,Hypertensive disorders,1,1,Kuwait
+1046,3190,2009,AIDS\HIV,2,1,Kuwait
+1047,3190,2009,AIDS\HIV,1,1,Kuwait
+1048,3190,2009,Other heart diseases,2,1,Kuwait
+1049,3190,2009,Other heart diseases,1,2,Kuwait
+1050,3190,2009,Other heart diseases,1,1,Kuwait
+1051,3190,2009,Other heart diseases,2,4,Kuwait
+1052,3190,2009,Self-harm,1,1,Kuwait
+1053,3190,2009,Hypertensive disorders,2,2,Kuwait
+1054,3190,2009,Hypertensive disorders,1,1,Kuwait
+1055,3190,2009,Self-harm,2,2,Kuwait
+1056,3190,2009,Self-harm,2,1,Kuwait
+1057,3190,2010,Other heart diseases,2,4,Kuwait
+1058,3190,2010,Other heart diseases,1,1,Kuwait
+1059,3190,2010,Other heart diseases,2,2,Kuwait
+1060,3190,2010,Self-harm,2,2,Kuwait
+1061,3190,2010,Self-harm,1,2,Kuwait
+1062,3190,2010,Hypertensive disorders,2,4,Kuwait
+1063,3190,2010,Hypertensive disorders,1,1,Kuwait
+1064,3190,2010,AIDS\HIV,2,1,Kuwait
+1065,3190,2010,AIDS\HIV,1,1,Kuwait
+1066,3190,2011,Other heart diseases,2,1,Kuwait
+1067,3190,2011,Other heart diseases,1,1,Kuwait
+1068,3190,2011,Self-harm,1,1,Kuwait
+1069,3190,2011,Self-harm,2,1,Kuwait
+1070,3190,2012,Hypertensive disorders,2,2,Kuwait
+1071,3190,2012,Hypertensive disorders,1,1,Kuwait
+1072,3190,2012,Mental disorders,2,1,Kuwait
+1073,3190,2012,Self-harm,2,2,Kuwait
+1074,3190,2012,Self-harm,1,2,Kuwait
+1075,3190,2012,Self-harm,1,1,Kuwait
+1076,3190,2012,Other heart diseases,1,1,Kuwait
+1077,3190,2012,Other heart diseases,2,5,Kuwait
+1078,3190,2013,Self-harm,1,1,Kuwait
+1079,3190,2014,AIDS\HIV,2,1,Kuwait
+1080,3190,2014,AIDS\HIV,1,1,Kuwait
+1081,3190,2014,Other heart diseases,2,1,Kuwait
+1082,3190,2014,Other heart diseases,1,2,Kuwait
+1083,3190,2015,Other heart diseases,1,2,Kuwait
+1084,3190,2015,Self-harm,2,1,Kuwait
+1085,3190,2015,Self-harm,1,1,Kuwait
+1086,3190,2015,AIDS\HIV,1,3,Kuwait
+1087,3190,2016,Hypertensive disorders,1,1,Kuwait
+1088,3190,2016,AIDS\HIV,1,1,Kuwait
+1089,3190,2016,Self-harm,2,1,Kuwait
+1090,3190,2016,Self-harm,1,6,Kuwait
+1091,3190,2016,Self-harm,1,1,Kuwait
+1092,3190,2016,Other heart diseases,2,2,Kuwait
+1093,3190,2016,Other heart diseases,1,1,Kuwait
+1094,3190,2017,AIDS\HIV,2,1,Kuwait
+1095,3190,2017,Hypertensive disorders,1,6,Kuwait
+1096,3190,2017,Hypertensive disorders,2,1,Kuwait
+1097,3190,2017,Self-harm,2,1,Kuwait
+1098,3190,2017,Mental disorders,1,1,Kuwait
+1099,3190,2018,AIDS\HIV,2,1,Kuwait
+1100,3190,2018,Mental disorders,2,1,Kuwait
+1101,3190,2018,Self-harm,1,22,Kuwait
+1102,3190,2018,Self-harm,2,9,Kuwait
+1103,3190,2018,Self-harm,1,1,Kuwait
+1104,3190,2018,Hypertensive disorders,1,5,Kuwait
+1105,3190,2018,Hypertensive disorders,2,6,Kuwait
+1106,3190,2018,Other heart diseases,1,2,Kuwait
+1107,3190,2018,Other heart diseases,2,1,Kuwait
+1108,3190,2019,AIDS\HIV,1,3,Kuwait
+1109,3190,2019,Hypertensive disorders,2,31,Kuwait
+1110,3190,2019,Hypertensive disorders,1,20,Kuwait
+1111,3190,2019,Other heart diseases,1,2,Kuwait
+1112,3190,2019,Self-harm,2,15,Kuwait
+1113,3190,2019,Self-harm,1,25,Kuwait
+1114,3020,1997,AIDS\HIV,1,11,Bahrain
+1115,3020,1997,Other heart diseases,1,27,Bahrain
+1116,3020,1997,Other heart diseases,2,8,Bahrain
+1117,3020,1997,Self-harm,1,2,Bahrain
+1118,3020,1997,Self-harm,2,2,Bahrain
+1119,3020,1997,Self-harm,1,14,Bahrain
+1120,3020,1997,Self-harm,2,5,Bahrain
+1121,3020,1997,Self-harm,1,2,Bahrain
+1122,3020,1997,Self-harm,1,7,Bahrain
+1123,3020,1997,Self-harm,2,10,Bahrain
+1124,3020,1997,Self-harm,1,5,Bahrain
+1125,3020,1997,Self-harm,2,4,Bahrain
+1126,3020,1997,Self-harm,2,11,Bahrain
+1127,3020,1997,Self-harm,1,1,Bahrain
+1128,3020,1997,Self-harm,1,1,Bahrain
+1129,3020,1997,Self-harm,1,1,Bahrain
+1130,3020,1997,Self-harm,2,3,Bahrain
+1131,3020,1997,Self-harm,1,2,Bahrain
+1132,3020,1997,Other heart diseases,2,7,Bahrain
+1133,3020,1997,Other heart diseases,1,7,Bahrain
+1134,3020,1997,Other heart diseases,2,4,Bahrain
+1135,3020,1997,Other heart diseases,1,3,Bahrain
+1136,3020,1997,Hypertensive disorders,1,54,Bahrain
+1137,3020,1997,Hypertensive disorders,2,66,Bahrain
+1138,3020,1997,Ischmic Heart diseases,1,165,Bahrain
+1139,3020,1997,Ischmic Heart diseases,2,84,Bahrain
+1140,3020,1997,Ischmic Heart diseases,1,7,Bahrain
+1141,3020,1997,Ischmic Heart diseases,2,4,Bahrain
+1142,3020,1997,Ischmic Heart diseases,1,35,Bahrain
+1143,3020,1997,Ischmic Heart diseases,2,23,Bahrain
+1144,3020,1997,Other heart diseases,1,4,Bahrain
+1145,3020,1997,Other heart diseases,2,7,Bahrain
+1146,3020,1997,Rhumatic Fever,2,1,Bahrain
+1147,3020,1997,Other heart diseases,1,5,Bahrain
+1148,3020,1997,Other heart diseases,2,1,Bahrain
+1149,3020,1997,Other heart diseases,1,1,Bahrain
+1150,3020,1997,Other heart diseases,1,1,Bahrain
+1151,3020,1997,Other heart diseases,2,1,Bahrain
+1152,3020,1997,Other heart diseases,2,1,Bahrain
+1153,3020,1997,Other heart diseases,1,6,Bahrain
+1154,3020,1997,Other heart diseases,2,2,Bahrain
+1155,3020,1997,Other heart diseases,1,1,Bahrain
+1156,3020,1997,Other heart diseases,1,11,Bahrain
+1157,3020,1997,Other heart diseases,2,6,Bahrain
+1158,3020,1997,Other heart diseases,2,5,Bahrain
+1159,3020,1997,Rhumatic Fever,2,1,Bahrain
+1160,3020,1997,Rhumatic Fever,1,1,Bahrain
+1161,3020,1997,Mental disorders,1,6,Bahrain
+1162,3020,1997,Mental disorders,1,1,Bahrain
+1163,3020,1998,AIDS\HIV,1,10,Bahrain
+1164,3020,1998,AIDS\HIV,2,2,Bahrain
+1165,3020,1998,Mental disorders,1,3,Bahrain
+1166,3020,1998,Mental disorders,2,1,Bahrain
+1167,3020,1998,Mental disorders,1,1,Bahrain
+1168,3020,1998,Mental disorders,2,4,Bahrain
+1169,3020,1998,Other heart diseases,2,11,Bahrain
+1170,3020,1998,Other heart diseases,1,1,Bahrain
+1171,3020,1998,Other heart diseases,2,1,Bahrain
+1172,3020,1998,Other heart diseases,1,1,Bahrain
+1173,3020,1998,Other heart diseases,2,1,Bahrain
+1174,3020,1998,Other heart diseases,1,3,Bahrain
+1175,3020,1998,Other heart diseases,2,5,Bahrain
+1176,3020,1998,Other heart diseases,1,13,Bahrain
+1177,3020,1998,Other heart diseases,2,7,Bahrain
+1178,3020,1998,Other heart diseases,1,2,Bahrain
+1179,3020,1998,Other heart diseases,2,1,Bahrain
+1180,3020,1998,Other heart diseases,1,5,Bahrain
+1181,3020,1998,Other heart diseases,2,3,Bahrain
+1182,3020,1998,Other heart diseases,1,39,Bahrain
+1183,3020,1998,Other heart diseases,2,7,Bahrain
+1184,3020,1998,Self-harm,1,2,Bahrain
+1185,3020,1998,Self-harm,1,13,Bahrain
+1186,3020,1998,Self-harm,2,4,Bahrain
+1187,3020,1998,Self-harm,1,6,Bahrain
+1188,3020,1998,Other heart diseases,1,6,Bahrain
+1189,3020,1998,Self-harm,2,5,Bahrain
+1190,3020,1998,Other heart diseases,2,1,Bahrain
+1191,3020,1998,Ischmic Heart diseases,2,31,Bahrain
+1192,3020,1998,Rhumatic Fever,1,1,Bahrain
+1193,3020,1998,Hypertensive disorders,1,88,Bahrain
+1194,3020,1998,Hypertensive disorders,2,85,Bahrain
+1195,3020,1998,Hypertensive disorders,2,1,Bahrain
+1196,3020,1998,Ischmic Heart diseases,1,1,Bahrain
+1197,3020,1998,Ischmic Heart diseases,2,2,Bahrain
+1198,3020,1998,Ischmic Heart diseases,1,109,Bahrain
+1199,3020,1998,Ischmic Heart diseases,2,23,Bahrain
+1200,3020,1998,Ischmic Heart diseases,1,9,Bahrain
+1201,3020,1998,Ischmic Heart diseases,2,1,Bahrain
+1202,3020,1998,Ischmic Heart diseases,1,25,Bahrain
+1203,3020,1998,Other heart diseases,1,6,Bahrain
+1204,3020,1998,Self-harm,1,4,Bahrain
+1205,3020,1998,Self-harm,2,5,Bahrain
+1206,3020,1998,Self-harm,1,12,Bahrain
+1207,3020,1998,Self-harm,2,10,Bahrain
+1208,3020,1998,Self-harm,1,1,Bahrain
+1209,3020,1999,Hepatic viral infection,1,1,Bahrain
+1210,3020,1999,Mental disorders,1,1,Bahrain
+1211,3020,1999,Mental disorders,2,1,Bahrain
+1212,3020,1999,Mental disorders,1,3,Bahrain
+1213,3020,1999,AIDS\HIV,2,3,Bahrain
+1214,3020,1999,AIDS\HIV,1,8,Bahrain
+1215,3020,1999,Hepatic viral infection,1,1,Bahrain
+1216,3020,1999,Rhumatic Fever,1,1,Bahrain
+1217,3020,1999,Other heart diseases,2,2,Bahrain
+1218,3020,1999,Other heart diseases,1,5,Bahrain
+1219,3020,1999,Other heart diseases,2,1,Bahrain
+1220,3020,1999,Other heart diseases,2,5,Bahrain
+1221,3020,1999,Other heart diseases,1,1,Bahrain
+1222,3020,1999,Other heart diseases,2,1,Bahrain
+1223,3020,1999,Other heart diseases,2,1,Bahrain
+1224,3020,1999,Other heart diseases,2,1,Bahrain
+1225,3020,1999,Other heart diseases,1,1,Bahrain
+1226,3020,1999,Other heart diseases,2,2,Bahrain
+1227,3020,1999,Other heart diseases,1,8,Bahrain
+1228,3020,1999,Other heart diseases,2,3,Bahrain
+1229,3020,1999,Other heart diseases,1,3,Bahrain
+1230,3020,1999,Ischmic Heart diseases,2,25,Bahrain
+1231,3020,1999,Ischmic Heart diseases,1,38,Bahrain
+1232,3020,1999,Ischmic Heart diseases,2,5,Bahrain
+1233,3020,1999,Ischmic Heart diseases,1,20,Bahrain
+1234,3020,1999,Ischmic Heart diseases,2,32,Bahrain
+1235,3020,1999,Ischmic Heart diseases,1,86,Bahrain
+1236,3020,1999,Ischmic Heart diseases,2,1,Bahrain
+1237,3020,1999,Ischmic Heart diseases,1,1,Bahrain
+1238,3020,1999,Hypertensive disorders,1,1,Bahrain
+1239,3020,1999,Hypertensive disorders,2,99,Bahrain
+1240,3020,1999,Hypertensive disorders,1,89,Bahrain
+1241,3020,1999,Rhumatic Fever,2,2,Bahrain
+1242,3020,1999,Other heart diseases,1,11,Bahrain
+1243,3020,1999,Other heart diseases,2,5,Bahrain
+1244,3020,1999,Other heart diseases,2,2,Bahrain
+1245,3020,1999,Self-harm,1,1,Bahrain
+1246,3020,1999,Self-harm,1,1,Bahrain
+1247,3020,1999,Self-harm,2,8,Bahrain
+1248,3020,1999,Self-harm,1,1,Bahrain
+1249,3020,1999,Self-harm,2,9,Bahrain
+1250,3020,1999,Self-harm,1,11,Bahrain
+1251,3020,1999,Self-harm,2,4,Bahrain
+1252,3020,1999,Self-harm,1,3,Bahrain
+1253,3020,1999,Self-harm,1,1,Bahrain
+1254,3020,1999,Self-harm,2,2,Bahrain
+1255,3020,1999,Self-harm,1,10,Bahrain
+1256,3020,1999,Self-harm,2,2,Bahrain
+1257,3020,1999,Self-harm,1,2,Bahrain
+1258,3020,1999,Other heart diseases,2,11,Bahrain
+1259,3020,1999,Other heart diseases,1,41,Bahrain
+1260,3020,1999,Other heart diseases,1,4,Bahrain
+1261,3020,2000,AIDS\HIV,1,10,Bahrain
+1262,3020,2000,AIDS\HIV,1,2,Bahrain
+1263,3020,2000,Hepatic viral infection,2,1,Bahrain
+1264,3020,2000,Hepatic viral infection,1,1,Bahrain
+1265,3020,2000,Hepatic viral infection,2,1,Bahrain
+1266,3020,2000,Hepatic viral infection,1,2,Bahrain
+1267,3020,2000,Hepatic viral infection,1,4,Bahrain
+1268,3020,2000,Mental disorders,2,1,Bahrain
+1269,3020,2000,Mental disorders,1,5,Bahrain
+1270,3020,2000,Other heart diseases,1,11,Bahrain
+1271,3020,2000,Other heart diseases,2,8,Bahrain
+1272,3020,2000,Other heart diseases,1,8,Bahrain
+1273,3020,2000,Other heart diseases,2,3,Bahrain
+1274,3020,2000,Other heart diseases,1,4,Bahrain
+1275,3020,2000,Ischmic Heart diseases,2,19,Bahrain
+1276,3020,2000,Ischmic Heart diseases,1,37,Bahrain
+1277,3020,2000,Ischmic Heart diseases,2,7,Bahrain
+1278,3020,2000,Ischmic Heart diseases,1,12,Bahrain
+1279,3020,2000,Ischmic Heart diseases,2,21,Bahrain
+1280,3020,2000,Ischmic Heart diseases,1,81,Bahrain
+1281,3020,2000,Ischmic Heart diseases,2,2,Bahrain
+1282,3020,2000,Hypertensive disorders,2,88,Bahrain
+1283,3020,2000,Hypertensive disorders,1,72,Bahrain
+1284,3020,2000,Rhumatic Fever,2,2,Bahrain
+1285,3020,2000,Rhumatic Fever,2,1,Bahrain
+1286,3020,2000,Rhumatic Fever,1,1,Bahrain
+1287,3020,2000,Hypertensive disorders,2,1,Bahrain
+1288,3020,2000,Other heart diseases,2,2,Bahrain
+1289,3020,2000,Other heart diseases,1,9,Bahrain
+1290,3020,2000,Other heart diseases,2,6,Bahrain
+1291,3020,2000,Other heart diseases,1,1,Bahrain
+1292,3020,2000,Self-harm,1,3,Bahrain
+1293,3020,2000,Self-harm,2,1,Bahrain
+1294,3020,2000,Self-harm,1,1,Bahrain
+1295,3020,2000,Self-harm,2,4,Bahrain
+1296,3020,2000,Self-harm,1,8,Bahrain
+1297,3020,2000,Self-harm,1,17,Bahrain
+1298,3020,2000,Self-harm,2,9,Bahrain
+1299,3020,2000,Self-harm,1,3,Bahrain
+1300,3020,2000,Self-harm,2,10,Bahrain
+1301,3020,2000,Self-harm,1,23,Bahrain
+1302,3020,2000,Other heart diseases,2,12,Bahrain
+1303,3020,2000,Other heart diseases,1,27,Bahrain
+1304,3020,2000,Other heart diseases,2,3,Bahrain
+1305,3020,2000,Other heart diseases,1,2,Bahrain
+1306,3020,2000,Other heart diseases,2,3,Bahrain
+1307,3020,2000,Other heart diseases,1,2,Bahrain
+1308,3020,2000,Self-harm,2,13,Bahrain
+1309,3020,2001,Hepatic viral infection,1,4,Bahrain
+1310,3020,2001,Hepatic viral infection,2,1,Bahrain
+1311,3020,2001,Hepatic viral infection,1,3,Bahrain
+1312,3020,2001,Hepatic viral infection,2,2,Bahrain
+1313,3020,2001,Hepatic viral infection,1,1,Bahrain
+1314,3020,2001,AIDS\HIV,1,1,Bahrain
+1315,3020,2001,AIDS\HIV,1,7,Bahrain
+1316,3020,2001,Self-harm,2,8,Bahrain
+1317,3020,2001,Self-harm,1,7,Bahrain
+1318,3020,2001,Self-harm,2,2,Bahrain
+1319,3020,2001,Self-harm,1,1,Bahrain
+1320,3020,2001,Self-harm,1,2,Bahrain
+1321,3020,2001,Self-harm,1,2,Bahrain
+1322,3020,2001,Self-harm,2,1,Bahrain
+1323,3020,2001,Self-harm,2,1,Bahrain
+1324,3020,2001,Self-harm,2,2,Bahrain
+1325,3020,2001,Self-harm,1,5,Bahrain
+1326,3020,2001,Self-harm,2,5,Bahrain
+1327,3020,2001,Self-harm,2,1,Bahrain
+1328,3020,2001,Other heart diseases,1,2,Bahrain
+1329,3020,2001,Other heart diseases,2,2,Bahrain
+1330,3020,2001,Other heart diseases,1,4,Bahrain
+1331,3020,2001,Other heart diseases,2,2,Bahrain
+1332,3020,2001,Other heart diseases,2,1,Bahrain
+1333,3020,2001,Other heart diseases,1,1,Bahrain
+1334,3020,2001,Other heart diseases,1,6,Bahrain
+1335,3020,2001,Other heart diseases,2,3,Bahrain
+1336,3020,2001,Other heart diseases,1,7,Bahrain
+1337,3020,2001,Other heart diseases,2,8,Bahrain
+1338,3020,2001,Other heart diseases,1,1,Bahrain
+1339,3020,2001,Other heart diseases,2,1,Bahrain
+1340,3020,2001,Other heart diseases,1,3,Bahrain
+1341,3020,2001,Other heart diseases,2,3,Bahrain
+1342,3020,2001,Other heart diseases,1,4,Bahrain
+1343,3020,2001,Other heart diseases,2,2,Bahrain
+1344,3020,2001,Other heart diseases,1,68,Bahrain
+1345,3020,2001,Other heart diseases,2,9,Bahrain
+1346,3020,2001,Self-harm,1,4,Bahrain
+1347,3020,2001,Self-harm,2,5,Bahrain
+1348,3020,2001,Self-harm,1,2,Bahrain
+1349,3020,2001,Self-harm,1,5,Bahrain
+1350,3020,2001,Ischmic Heart diseases,2,18,Bahrain
+1351,3020,2001,Ischmic Heart diseases,1,32,Bahrain
+1352,3020,2001,Ischmic Heart diseases,2,9,Bahrain
+1353,3020,2001,Ischmic Heart diseases,1,12,Bahrain
+1354,3020,2001,Rhumatic Fever,1,1,Bahrain
+1355,3020,2001,Rhumatic Fever,1,1,Bahrain
+1356,3020,2001,Rhumatic Fever,2,1,Bahrain
+1357,3020,2001,Hypertensive disorders,1,118,Bahrain
+1358,3020,2001,Hypertensive disorders,2,101,Bahrain
+1359,3020,2001,Hypertensive disorders,1,1,Bahrain
+1360,3020,2001,Hypertensive disorders,2,2,Bahrain
+1361,3020,2001,Ischmic Heart diseases,1,68,Bahrain
+1362,3020,2001,Ischmic Heart diseases,2,18,Bahrain
+1363,3020,2001,Mental disorders,1,3,Bahrain
+1364,3020,2001,Mental disorders,1,2,Bahrain
+1365,3020,2002,Hepatic viral infection,1,5,Bahrain
+1366,3020,2002,Hepatic viral infection,2,1,Bahrain
+1367,3020,2002,Hepatic viral infection,1,1,Bahrain
+1368,3020,2002,Hepatic viral infection,2,1,Bahrain
+1369,3020,2002,Hepatic viral infection,1,1,Bahrain
+1370,3020,2002,AIDS\HIV,1,1,Bahrain
+1371,3020,2002,AIDS\HIV,1,11,Bahrain
+1372,3020,2002,AIDS\HIV,2,2,Bahrain
+1373,3020,2002,Rhumatic Fever,2,4,Bahrain
+1374,3020,2002,Hypertensive disorders,1,121,Bahrain
+1375,3020,2002,Hypertensive disorders,2,114,Bahrain
+1376,3020,2002,Mental disorders,2,1,Bahrain
+1377,3020,2002,Mental disorders,1,1,Bahrain
+1378,3020,2002,Hypertensive disorders,1,4,Bahrain
+1379,3020,2002,Hypertensive disorders,2,1,Bahrain
+1380,3020,2002,Ischmic Heart diseases,2,18,Bahrain
+1381,3020,2002,Self-harm,1,10,Bahrain
+1382,3020,2002,Self-harm,2,10,Bahrain
+1383,3020,2002,Self-harm,1,3,Bahrain
+1384,3020,2002,Self-harm,2,1,Bahrain
+1385,3020,2002,Self-harm,1,7,Bahrain
+1386,3020,2002,Self-harm,2,6,Bahrain
+1387,3020,2002,Self-harm,1,1,Bahrain
+1388,3020,2002,Self-harm,1,1,Bahrain
+1389,3020,2002,Self-harm,2,3,Bahrain
+1390,3020,2002,Self-harm,2,1,Bahrain
+1391,3020,2002,Self-harm,1,1,Bahrain
+1392,3020,2002,Other heart diseases,2,10,Bahrain
+1393,3020,2002,Other heart diseases,1,29,Bahrain
+1394,3020,2002,Other heart diseases,2,4,Bahrain
+1395,3020,2002,Ischmic Heart diseases,1,13,Bahrain
+1396,3020,2002,Ischmic Heart diseases,2,3,Bahrain
+1397,3020,2002,Ischmic Heart diseases,1,37,Bahrain
+1398,3020,2002,Ischmic Heart diseases,2,16,Bahrain
+1399,3020,2002,Other heart diseases,1,2,Bahrain
+1400,3020,2002,Other heart diseases,2,7,Bahrain
+1401,3020,2002,Other heart diseases,1,1,Bahrain
+1402,3020,2002,Other heart diseases,2,4,Bahrain
+1403,3020,2002,Other heart diseases,1,9,Bahrain
+1404,3020,2002,Other heart diseases,2,4,Bahrain
+1405,3020,2002,Other heart diseases,1,16,Bahrain
+1406,3020,2002,Other heart diseases,2,12,Bahrain
+1407,3020,2002,Other heart diseases,1,5,Bahrain
+1408,3020,2002,Other heart diseases,2,2,Bahrain
+1409,3020,2002,Other heart diseases,1,5,Bahrain
+1410,3020,2002,Other heart diseases,2,1,Bahrain
+1411,3020,2002,Other heart diseases,1,7,Bahrain
+1412,3020,2002,Ischmic Heart diseases,1,85,Bahrain
+1413,3020,2003,Rhumatic Fever,1,1,Bahrain
+1414,3020,2003,Rhumatic Fever,1,1,Bahrain
+1415,3020,2003,Hypertensive disorders,1,139,Bahrain
+1416,3020,2003,Hypertensive disorders,2,148,Bahrain
+1417,3020,2003,Hypertensive disorders,1,1,Bahrain
+1418,3020,2003,Ischmic Heart diseases,1,3,Bahrain
+1419,3020,2003,Ischmic Heart diseases,1,73,Bahrain
+1420,3020,2003,Ischmic Heart diseases,2,21,Bahrain
+1421,3020,2003,Ischmic Heart diseases,1,3,Bahrain
+1422,3020,2003,Ischmic Heart diseases,2,3,Bahrain
+1423,3020,2003,Ischmic Heart diseases,1,39,Bahrain
+1424,3020,2003,Ischmic Heart diseases,2,31,Bahrain
+1425,3020,2003,Rhumatic Fever,2,1,Bahrain
+1426,3020,2003,Other heart diseases,1,3,Bahrain
+1427,3020,2003,Mental disorders,1,1,Bahrain
+1428,3020,2003,Other heart diseases,2,1,Bahrain
+1429,3020,2003,Other heart diseases,2,1,Bahrain
+1430,3020,2003,Other heart diseases,2,1,Bahrain
+1431,3020,2003,Self-harm,2,1,Bahrain
+1432,3020,2003,Self-harm,2,3,Bahrain
+1433,3020,2003,Self-harm,2,1,Bahrain
+1434,3020,2003,Self-harm,1,2,Bahrain
+1435,3020,2003,Self-harm,2,4,Bahrain
+1436,3020,2003,Other heart diseases,1,1,Bahrain
+1437,3020,2003,Other heart diseases,2,2,Bahrain
+1438,3020,2003,Other heart diseases,2,1,Bahrain
+1439,3020,2003,Other heart diseases,1,6,Bahrain
+1440,3020,2003,Other heart diseases,2,3,Bahrain
+1441,3020,2003,Other heart diseases,1,46,Bahrain
+1442,3020,2003,Other heart diseases,2,16,Bahrain
+1443,3020,2003,Other heart diseases,1,4,Bahrain
+1444,3020,2003,Other heart diseases,2,3,Bahrain
+1445,3020,2003,Other heart diseases,2,1,Bahrain
+1446,3020,2003,Other heart diseases,1,17,Bahrain
+1447,3020,2003,Other heart diseases,2,12,Bahrain
+1448,3020,2003,Other heart diseases,1,10,Bahrain
+1449,3020,2003,Other heart diseases,2,2,Bahrain
+1450,3020,2003,Self-harm,2,1,Bahrain
+1451,3020,2003,Self-harm,1,3,Bahrain
+1452,3020,2003,Self-harm,2,7,Bahrain
+1453,3020,2003,Self-harm,1,1,Bahrain
+1454,3020,2003,Self-harm,1,5,Bahrain
+1455,3020,2003,Self-harm,2,5,Bahrain
+1456,3020,2003,Self-harm,1,10,Bahrain
+1457,3020,2003,Self-harm,2,12,Bahrain
+1458,3020,2003,Self-harm,1,1,Bahrain
+1459,3020,2003,Hepatic viral infection,1,2,Bahrain
+1460,3020,2003,Hepatic viral infection,2,1,Bahrain
+1461,3020,2003,Hepatic viral infection,1,9,Bahrain
+1462,3020,2003,Hepatic viral infection,2,1,Bahrain
+1463,3020,2003,AIDS\HIV,1,1,Bahrain
+1464,3020,2003,AIDS\HIV,1,18,Bahrain
+1465,3020,2004,Mental disorders,1,1,Bahrain
+1466,3020,2004,Mental disorders,1,1,Bahrain
+1467,3020,2004,Mental disorders,1,1,Bahrain
+1468,3020,2004,Mental disorders,1,2,Bahrain
+1469,3020,2004,Other heart diseases,2,2,Bahrain
+1470,3020,2004,Other heart diseases,1,9,Bahrain
+1471,3020,2004,Other heart diseases,2,10,Bahrain
+1472,3020,2004,Other heart diseases,1,6,Bahrain
+1473,3020,2004,Other heart diseases,2,8,Bahrain
+1474,3020,2004,Self-harm,1,2,Bahrain
+1475,3020,2004,Self-harm,2,1,Bahrain
+1476,3020,2004,Self-harm,1,7,Bahrain
+1477,3020,2004,Self-harm,2,2,Bahrain
+1478,3020,2004,Self-harm,1,5,Bahrain
+1479,3020,2004,Self-harm,2,7,Bahrain
+1480,3020,2004,Self-harm,1,13,Bahrain
+1481,3020,2004,Self-harm,2,11,Bahrain
+1482,3020,2004,Self-harm,1,3,Bahrain
+1483,3020,2004,Self-harm,2,3,Bahrain
+1484,3020,2004,Self-harm,2,1,Bahrain
+1485,3020,2004,Self-harm,1,1,Bahrain
+1486,3020,2004,Self-harm,1,1,Bahrain
+1487,3020,2004,Self-harm,1,5,Bahrain
+1488,3020,2004,Self-harm,2,2,Bahrain
+1489,3020,2004,Self-harm,1,1,Bahrain
+1490,3020,2004,Self-harm,1,1,Bahrain
+1491,3020,2004,Other heart diseases,1,1,Bahrain
+1492,3020,2004,Other heart diseases,2,9,Bahrain
+1493,3020,2004,Other heart diseases,2,39,Bahrain
+1494,3020,2004,Rhumatic Fever,1,1,Bahrain
+1495,3020,2004,Hypertensive disorders,1,117,Bahrain
+1496,3020,2004,Hypertensive disorders,2,114,Bahrain
+1497,3020,2004,Ischmic Heart diseases,1,1,Bahrain
+1498,3020,2004,Ischmic Heart diseases,1,28,Bahrain
+1499,3020,2004,Ischmic Heart diseases,2,14,Bahrain
+1500,3020,2004,Ischmic Heart diseases,1,5,Bahrain
+1501,3020,2004,Ischmic Heart diseases,2,4,Bahrain
+1502,3020,2004,Ischmic Heart diseases,1,2,Bahrain
+1503,3020,2004,Ischmic Heart diseases,1,42,Bahrain
+1504,3020,2004,Ischmic Heart diseases,2,29,Bahrain
+1505,3020,2004,Other heart diseases,2,1,Bahrain
+1506,3020,2004,Other heart diseases,1,1,Bahrain
+1507,3020,2004,Other heart diseases,2,2,Bahrain
+1508,3020,2004,Other heart diseases,2,1,Bahrain
+1509,3020,2004,Other heart diseases,1,4,Bahrain
+1510,3020,2004,Other heart diseases,2,4,Bahrain
+1511,3020,2004,Other heart diseases,1,67,Bahrain
+1512,3020,2004,Other heart diseases,1,2,Bahrain
+1513,3020,2004,Hepatic viral infection,1,1,Bahrain
+1514,3020,2004,Hepatic viral infection,1,4,Bahrain
+1515,3020,2004,Hepatic viral infection,1,7,Bahrain
+1516,3020,2004,Hepatic viral infection,2,3,Bahrain
+1517,3020,2004,Hepatic viral infection,2,1,Bahrain
+1518,3020,2004,AIDS\HIV,1,6,Bahrain
+1519,3020,2004,AIDS\HIV,2,4,Bahrain
+1520,3020,2005,Hypertensive disorders,1,87,Bahrain
+1521,3020,2005,Hypertensive disorders,2,76,Bahrain
+1522,3020,2005,Hypertensive disorders,1,1,Bahrain
+1523,3020,2005,Ischmic Heart diseases,2,1,Bahrain
+1524,3020,2005,Ischmic Heart diseases,1,21,Bahrain
+1525,3020,2005,Ischmic Heart diseases,2,14,Bahrain
+1526,3020,2005,Ischmic Heart diseases,1,2,Bahrain
+1527,3020,2005,Ischmic Heart diseases,2,4,Bahrain
+1528,3020,2005,Ischmic Heart diseases,1,37,Bahrain
+1529,3020,2005,Ischmic Heart diseases,2,23,Bahrain
+1530,3020,2005,Other heart diseases,1,2,Bahrain
+1531,3020,2005,Other heart diseases,2,2,Bahrain
+1532,3020,2005,Other heart diseases,1,4,Bahrain
+1533,3020,2005,Other heart diseases,1,1,Bahrain
+1534,3020,2005,Other heart diseases,2,1,Bahrain
+1535,3020,2005,Other heart diseases,1,1,Bahrain
+1536,3020,2005,Other heart diseases,2,3,Bahrain
+1537,3020,2005,Other heart diseases,1,8,Bahrain
+1538,3020,2005,Other heart diseases,2,9,Bahrain
+1539,3020,2005,Other heart diseases,1,62,Bahrain
+1540,3020,2005,Other heart diseases,2,34,Bahrain
+1541,3020,2005,Other heart diseases,1,2,Bahrain
+1542,3020,2005,Other heart diseases,2,8,Bahrain
+1543,3020,2005,Rhumatic Fever,2,1,Bahrain
+1544,3020,2005,Rhumatic Fever,2,1,Bahrain
+1545,3020,2005,Mental disorders,1,2,Bahrain
+1546,3020,2005,Mental disorders,1,2,Bahrain
+1547,3020,2005,Mental disorders,1,1,Bahrain
+1548,3020,2005,Mental disorders,1,1,Bahrain
+1549,3020,2005,Mental disorders,1,2,Bahrain
+1550,3020,2005,Other heart diseases,1,6,Bahrain
+1551,3020,2005,Other heart diseases,1,12,Bahrain
+1552,3020,2005,Other heart diseases,2,8,Bahrain
+1553,3020,2005,Other heart diseases,1,15,Bahrain
+1554,3020,2005,Other heart diseases,2,3,Bahrain
+1555,3020,2005,Self-harm,1,2,Bahrain
+1556,3020,2005,Self-harm,2,1,Bahrain
+1557,3020,2005,Self-harm,1,6,Bahrain
+1558,3020,2005,Self-harm,2,4,Bahrain
+1559,3020,2005,Self-harm,1,7,Bahrain
+1560,3020,2005,Self-harm,2,3,Bahrain
+1561,3020,2005,Self-harm,1,17,Bahrain
+1562,3020,2005,Self-harm,2,7,Bahrain
+1563,3020,2005,Self-harm,1,10,Bahrain
+1564,3020,2005,Self-harm,2,6,Bahrain
+1565,3020,2005,Self-harm,1,1,Bahrain
+1566,3020,2005,Self-harm,2,1,Bahrain
+1567,3020,2005,Self-harm,2,1,Bahrain
+1568,3020,2005,Self-harm,1,3,Bahrain
+1569,3020,2005,Self-harm,2,2,Bahrain
+1570,3020,2005,Self-harm,1,1,Bahrain
+1571,3020,2005,Self-harm,1,2,Bahrain
+1572,3020,2005,Hepatic viral infection,1,6,Bahrain
+1573,3020,2005,Hepatic viral infection,2,3,Bahrain
+1574,3020,2005,AIDS\HIV,1,7,Bahrain
+1575,3020,2005,AIDS\HIV,2,1,Bahrain
+1576,3020,2006,Hepatic viral infection,1,2,Bahrain
+1577,3020,2006,AIDS\HIV,2,2,Bahrain
+1578,3020,2006,AIDS\HIV,1,7,Bahrain
+1579,3020,2006,Hepatic viral infection,2,3,Bahrain
+1580,3020,2006,Hepatic viral infection,1,8,Bahrain
+1581,3020,2006,Other heart diseases,1,4,Bahrain
+1582,3020,2006,Other heart diseases,2,9,Bahrain
+1583,3020,2006,Other heart diseases,1,1,Bahrain
+1584,3020,2006,Other heart diseases,2,25,Bahrain
+1585,3020,2006,Other heart diseases,1,54,Bahrain
+1586,3020,2006,Other heart diseases,2,1,Bahrain
+1587,3020,2006,Other heart diseases,1,1,Bahrain
+1588,3020,2006,Other heart diseases,2,4,Bahrain
+1589,3020,2006,Other heart diseases,1,9,Bahrain
+1590,3020,2006,Other heart diseases,2,1,Bahrain
+1591,3020,2006,Other heart diseases,2,1,Bahrain
+1592,3020,2006,Other heart diseases,2,1,Bahrain
+1593,3020,2006,Other heart diseases,1,1,Bahrain
+1594,3020,2006,Other heart diseases,1,1,Bahrain
+1595,3020,2006,Other heart diseases,1,1,Bahrain
+1596,3020,2006,Other heart diseases,2,5,Bahrain
+1597,3020,2006,Other heart diseases,1,3,Bahrain
+1598,3020,2006,Other heart diseases,2,4,Bahrain
+1599,3020,2006,Other heart diseases,1,2,Bahrain
+1600,3020,2006,Ischmic Heart diseases,2,25,Bahrain
+1601,3020,2006,Other heart diseases,1,2,Bahrain
+1602,3020,2006,Ischmic Heart diseases,1,30,Bahrain
+1603,3020,2006,Other heart diseases,1,17,Bahrain
+1604,3020,2006,Other heart diseases,1,9,Bahrain
+1605,3020,2006,Self-harm,2,1,Bahrain
+1606,3020,2006,Self-harm,1,1,Bahrain
+1607,3020,2006,Self-harm,2,1,Bahrain
+1608,3020,2006,Self-harm,1,3,Bahrain
+1609,3020,2006,Self-harm,1,1,Bahrain
+1610,3020,2006,Self-harm,2,1,Bahrain
+1611,3020,2006,Other heart diseases,2,7,Bahrain
+1612,3020,2006,Self-harm,2,3,Bahrain
+1613,3020,2006,Self-harm,2,19,Bahrain
+1614,3020,2006,Self-harm,1,19,Bahrain
+1615,3020,2006,Self-harm,2,2,Bahrain
+1616,3020,2006,Self-harm,1,6,Bahrain
+1617,3020,2006,Self-harm,2,9,Bahrain
+1618,3020,2006,Self-harm,1,9,Bahrain
+1619,3020,2006,Self-harm,2,1,Bahrain
+1620,3020,2006,Self-harm,1,2,Bahrain
+1621,3020,2006,Other heart diseases,2,3,Bahrain
+1622,3020,2006,Self-harm,1,2,Bahrain
+1623,3020,2006,Ischmic Heart diseases,1,1,Bahrain
+1624,3020,2006,Ischmic Heart diseases,2,4,Bahrain
+1625,3020,2006,Ischmic Heart diseases,1,32,Bahrain
+1626,3020,2006,Mental disorders,1,4,Bahrain
+1627,3020,2006,Mental disorders,1,1,Bahrain
+1628,3020,2006,Mental disorders,2,1,Bahrain
+1629,3020,2006,Hypertensive disorders,2,99,Bahrain
+1630,3020,2006,Hypertensive disorders,1,89,Bahrain
+1631,3020,2006,Rhumatic Fever,2,1,Bahrain
+1632,3020,2006,Rhumatic Fever,2,1,Bahrain
+1633,3020,2006,Mental disorders,2,1,Bahrain
+1634,3020,2006,Mental disorders,1,1,Bahrain
+1635,3020,2007,AIDS\HIV,2,1,Bahrain
+1636,3020,2007,AIDS\HIV,1,3,Bahrain
+1637,3020,2007,AIDS\HIV,1,1,Bahrain
+1638,3020,2007,Hepatic viral infection,2,3,Bahrain
+1639,3020,2007,Hepatic viral infection,1,7,Bahrain
+1640,3020,2007,Hepatic viral infection,1,1,Bahrain
+1641,3020,2007,Self-harm,1,1,Bahrain
+1642,3020,2007,Self-harm,2,1,Bahrain
+1643,3020,2007,Self-harm,2,2,Bahrain
+1644,3020,2007,Self-harm,1,4,Bahrain
+1645,3020,2007,Self-harm,2,1,Bahrain
+1646,3020,2007,Self-harm,1,1,Bahrain
+1647,3020,2007,Self-harm,2,19,Bahrain
+1648,3020,2007,Self-harm,1,16,Bahrain
+1649,3020,2007,Self-harm,2,4,Bahrain
+1650,3020,2007,Self-harm,1,1,Bahrain
+1651,3020,2007,Self-harm,2,6,Bahrain
+1652,3020,2007,Self-harm,1,5,Bahrain
+1653,3020,2007,Self-harm,2,2,Bahrain
+1654,3020,2007,Self-harm,1,4,Bahrain
+1655,3020,2007,Other heart diseases,2,4,Bahrain
+1656,3020,2007,Other heart diseases,1,10,Bahrain
+1657,3020,2007,Other heart diseases,2,7,Bahrain
+1658,3020,2007,Self-harm,1,6,Bahrain
+1659,3020,2007,Other heart diseases,1,13,Bahrain
+1660,3020,2007,Other heart diseases,2,2,Bahrain
+1661,3020,2007,Other heart diseases,1,3,Bahrain
+1662,3020,2007,Other heart diseases,2,3,Bahrain
+1663,3020,2007,Mental disorders,2,1,Bahrain
+1664,3020,2007,Mental disorders,1,1,Bahrain
+1665,3020,2007,Mental disorders,1,2,Bahrain
+1666,3020,2007,Mental disorders,1,2,Bahrain
+1667,3020,2007,Rhumatic Fever,1,1,Bahrain
+1668,3020,2007,Other heart diseases,1,6,Bahrain
+1669,3020,2007,Other heart diseases,2,27,Bahrain
+1670,3020,2007,Other heart diseases,1,140,Bahrain
+1671,3020,2007,Other heart diseases,2,6,Bahrain
+1672,3020,2007,Other heart diseases,1,15,Bahrain
+1673,3020,2007,Other heart diseases,1,1,Bahrain
+1674,3020,2007,Other heart diseases,2,2,Bahrain
+1675,3020,2007,Other heart diseases,2,5,Bahrain
+1676,3020,2007,Other heart diseases,1,1,Bahrain
+1677,3020,2007,Other heart diseases,2,5,Bahrain
+1678,3020,2007,Other heart diseases,1,3,Bahrain
+1679,3020,2007,Ischmic Heart diseases,2,19,Bahrain
+1680,3020,2007,Ischmic Heart diseases,1,41,Bahrain
+1681,3020,2007,Ischmic Heart diseases,1,1,Bahrain
+1682,3020,2007,Ischmic Heart diseases,2,15,Bahrain
+1683,3020,2007,Ischmic Heart diseases,1,35,Bahrain
+1684,3020,2007,Hypertensive disorders,2,82,Bahrain
+1685,3020,2007,Hypertensive disorders,1,87,Bahrain
+1686,3020,2007,Rhumatic Fever,2,2,Bahrain
+1687,3020,2008,Mental disorders,1,2,Bahrain
+1688,3020,2008,Rhumatic Fever,1,1,Bahrain
+1689,3020,2008,Rhumatic Fever,1,1,Bahrain
+1690,3020,2008,Hypertensive disorders,1,77,Bahrain
+1691,3020,2008,Ischmic Heart diseases,1,22,Bahrain
+1692,3020,2008,Ischmic Heart diseases,1,2,Bahrain
+1693,3020,2008,Ischmic Heart diseases,1,46,Bahrain
+1694,3020,2008,Other heart diseases,1,1,Bahrain
+1695,3020,2008,Other heart diseases,1,4,Bahrain
+1696,3020,2008,Other heart diseases,1,1,Bahrain
+1697,3020,2008,Other heart diseases,1,10,Bahrain
+1698,3020,2008,Other heart diseases,1,137,Bahrain
+1699,3020,2008,Other heart diseases,1,7,Bahrain
+1700,3020,2008,Other heart diseases,1,4,Bahrain
+1701,3020,2008,Other heart diseases,1,9,Bahrain
+1702,3020,2008,Other heart diseases,1,2,Bahrain
+1703,3020,2008,Self-harm,1,2,Bahrain
+1704,3020,2008,Self-harm,1,3,Bahrain
+1705,3020,2008,Self-harm,1,9,Bahrain
+1706,3020,2008,Self-harm,1,17,Bahrain
+1707,3020,2008,Self-harm,1,1,Bahrain
+1708,3020,2008,Self-harm,1,5,Bahrain
+1709,3020,2008,Self-harm,1,1,Bahrain
+1710,3020,2008,Self-harm,1,7,Bahrain
+1711,3020,2008,Sexual Transmmited diseases,1,1,Bahrain
+1712,3020,2008,Hepatic viral infection,1,2,Bahrain
+1713,3020,2008,Hepatic viral infection,1,5,Bahrain
+1714,3020,2008,AIDS\HIV,1,5,Bahrain
+1715,3020,2008,Rhumatic Fever,2,1,Bahrain
+1716,3020,2008,Hypertensive disorders,2,88,Bahrain
+1717,3020,2008,Ischmic Heart diseases,2,12,Bahrain
+1718,3020,2008,Ischmic Heart diseases,2,1,Bahrain
+1719,3020,2008,Ischmic Heart diseases,2,30,Bahrain
+1720,3020,2008,Other heart diseases,2,3,Bahrain
+1721,3020,2008,Other heart diseases,2,2,Bahrain
+1722,3020,2008,Other heart diseases,2,2,Bahrain
+1723,3020,2008,Other heart diseases,2,2,Bahrain
+1724,3020,2008,Other heart diseases,2,3,Bahrain
+1725,3020,2008,Other heart diseases,2,9,Bahrain
+1726,3020,2008,Other heart diseases,2,26,Bahrain
+1727,3020,2008,Other heart diseases,2,10,Bahrain
+1728,3020,2008,Other heart diseases,2,3,Bahrain
+1729,3020,2008,Other heart diseases,2,6,Bahrain
+1730,3020,2008,Other heart diseases,2,2,Bahrain
+1731,3020,2008,Self-harm,2,1,Bahrain
+1732,3020,2008,Self-harm,2,3,Bahrain
+1733,3020,2008,Self-harm,2,4,Bahrain
+1734,3020,2008,Self-harm,2,24,Bahrain
+1735,3020,2008,Self-harm,2,1,Bahrain
+1736,3020,2008,Self-harm,2,1,Bahrain
+1737,3020,2008,Hepatic viral infection,2,1,Bahrain
+1738,3020,2008,Hepatic viral infection,2,3,Bahrain
+1739,3020,2008,AIDS\HIV,2,3,Bahrain
+1740,3020,2008,AIDS\HIV,2,2,Bahrain
+1741,3020,2008,Mental disorders,2,1,Bahrain
+1742,3020,2009,AIDS\HIV,2,1,Bahrain
+1743,3020,2009,Hepatic viral infection,2,2,Bahrain
+1744,3020,2009,AIDS\HIV,2,1,Bahrain
+1745,3020,2009,Ischmic Heart diseases,2,22,Bahrain
+1746,3020,2009,Ischmic Heart diseases,2,14,Bahrain
+1747,3020,2009,Hypertensive disorders,2,1,Bahrain
+1748,3020,2009,Hypertensive disorders,2,1,Bahrain
+1749,3020,2009,Hypertensive disorders,2,54,Bahrain
+1750,3020,2009,Rhumatic Fever,2,1,Bahrain
+1751,3020,2009,Other heart diseases,2,6,Bahrain
+1752,3020,2009,Other heart diseases,2,4,Bahrain
+1753,3020,2009,Other heart diseases,2,2,Bahrain
+1754,3020,2009,Other heart diseases,2,2,Bahrain
+1755,3020,2009,Self-harm,2,1,Bahrain
+1756,3020,2009,Self-harm,2,1,Bahrain
+1757,3020,2009,Self-harm,2,1,Bahrain
+1758,3020,2009,Self-harm,2,1,Bahrain
+1759,3020,2009,Self-harm,2,17,Bahrain
+1760,3020,2009,Self-harm,2,5,Bahrain
+1761,3020,2009,Self-harm,2,1,Bahrain
+1762,3020,2009,Self-harm,2,3,Bahrain
+1763,3020,2009,Self-harm,2,3,Bahrain
+1764,3020,2009,Other heart diseases,2,5,Bahrain
+1765,3020,2009,Other heart diseases,2,4,Bahrain
+1766,3020,2009,Other heart diseases,2,2,Bahrain
+1767,3020,2009,Other heart diseases,2,6,Bahrain
+1768,3020,2009,Other heart diseases,2,45,Bahrain
+1769,3020,2009,Other heart diseases,2,4,Bahrain
+1770,3020,2009,AIDS\HIV,1,1,Bahrain
+1771,3020,2009,AIDS\HIV,1,1,Bahrain
+1772,3020,2009,Hepatic viral infection,1,1,Bahrain
+1773,3020,2009,Hepatic viral infection,1,9,Bahrain
+1774,3020,2009,Hepatic viral infection,1,2,Bahrain
+1775,3020,2009,Rhumatic Fever,1,1,Bahrain
+1776,3020,2009,Hypertensive disorders,1,51,Bahrain
+1777,3020,2009,Mental disorders,1,1,Bahrain
+1778,3020,2009,Mental disorders,1,1,Bahrain
+1779,3020,2009,Mental disorders,1,1,Bahrain
+1780,3020,2009,Ischmic Heart diseases,1,34,Bahrain
+1781,3020,2009,Other heart diseases,1,1,Bahrain
+1782,3020,2009,Self-harm,1,1,Bahrain
+1783,3020,2009,Self-harm,1,22,Bahrain
+1784,3020,2009,Self-harm,1,2,Bahrain
+1785,3020,2009,Self-harm,1,9,Bahrain
+1786,3020,2009,Self-harm,1,2,Bahrain
+1787,3020,2009,Other heart diseases,1,19,Bahrain
+1788,3020,2009,Ischmic Heart diseases,1,32,Bahrain
+1789,3020,2009,Other heart diseases,1,7,Bahrain
+1790,3020,2009,Other heart diseases,1,8,Bahrain
+1791,3020,2009,Other heart diseases,1,192,Bahrain
+1792,3020,2009,Other heart diseases,1,9,Bahrain
+1793,3020,2009,Other heart diseases,1,1,Bahrain
+1794,3020,2009,Other heart diseases,1,4,Bahrain
+1795,3020,2009,Other heart diseases,1,1,Bahrain
+1796,3020,2009,Other heart diseases,1,6,Bahrain
+1797,3020,2009,Self-harm,1,1,Bahrain
+1798,3020,2010,Hepatic viral infection,1,4,Bahrain
+1799,3020,2010,AIDS\HIV,1,3,Bahrain
+1800,3020,2010,AIDS\HIV,1,2,Bahrain
+1801,3020,2010,Hepatic viral infection,1,1,Bahrain
+1802,3020,2010,Mental disorders,2,1,Bahrain
+1803,3020,2010,Mental disorders,2,1,Bahrain
+1804,3020,2010,Other heart diseases,2,10,Bahrain
+1805,3020,2010,Other heart diseases,2,96,Bahrain
+1806,3020,2010,Other heart diseases,2,1,Bahrain
+1807,3020,2010,Other heart diseases,2,6,Bahrain
+1808,3020,2010,Other heart diseases,2,1,Bahrain
+1809,3020,2010,Other heart diseases,2,1,Bahrain
+1810,3020,2010,Other heart diseases,2,1,Bahrain
+1811,3020,2010,Ischmic Heart diseases,2,24,Bahrain
+1812,3020,2010,Ischmic Heart diseases,2,5,Bahrain
+1813,3020,2010,Hypertensive disorders,2,1,Bahrain
+1814,3020,2010,Hypertensive disorders,2,90,Bahrain
+1815,3020,2010,Rhumatic Fever,2,3,Bahrain
+1816,3020,2010,Other heart diseases,2,4,Bahrain
+1817,3020,2010,Other heart diseases,2,9,Bahrain
+1818,3020,2010,Other heart diseases,2,3,Bahrain
+1819,3020,2010,Self-harm,2,4,Bahrain
+1820,3020,2010,Self-harm,2,1,Bahrain
+1821,3020,2010,Self-harm,2,1,Bahrain
+1822,3020,2010,Self-harm,2,1,Bahrain
+1823,3020,2010,Self-harm,2,20,Bahrain
+1824,3020,2010,Self-harm,2,1,Bahrain
+1825,3020,2010,Self-harm,2,1,Bahrain
+1826,3020,2010,Self-harm,2,3,Bahrain
+1827,3020,2010,Self-harm,1,1,Bahrain
+1828,3020,2010,Self-harm,1,1,Bahrain
+1829,3020,2010,Self-harm,1,4,Bahrain
+1830,3020,2010,Self-harm,1,1,Bahrain
+1831,3020,2010,Self-harm,1,23,Bahrain
+1832,3020,2010,Self-harm,1,5,Bahrain
+1833,3020,2010,Mental disorders,1,1,Bahrain
+1834,3020,2010,Mental disorders,1,6,Bahrain
+1835,3020,2010,Mental disorders,1,1,Bahrain
+1836,3020,2010,Mental disorders,1,1,Bahrain
+1837,3020,2010,Mental disorders,1,2,Bahrain
+1838,3020,2010,Hypertensive disorders,1,102,Bahrain
+1839,3020,2010,Self-harm,1,2,Bahrain
+1840,3020,2010,Other heart diseases,1,5,Bahrain
+1841,3020,2010,Other heart diseases,1,8,Bahrain
+1842,3020,2010,Other heart diseases,1,5,Bahrain
+1843,3020,2010,Other heart diseases,1,4,Bahrain
+1844,3020,2010,Other heart diseases,1,259,Bahrain
+1845,3020,2010,Self-harm,1,4,Bahrain
+1846,3020,2010,Other heart diseases,1,8,Bahrain
+1847,3020,2010,Other heart diseases,1,1,Bahrain
+1848,3020,2010,Other heart diseases,1,4,Bahrain
+1849,3020,2010,Other heart diseases,1,6,Bahrain
+1850,3020,2010,Ischmic Heart diseases,1,32,Bahrain
+1851,3020,2010,Ischmic Heart diseases,1,1,Bahrain
+1852,3020,2010,Ischmic Heart diseases,1,28,Bahrain
+1853,3020,2010,Other heart diseases,1,2,Bahrain
+1854,3020,2010,Hepatic viral infection,2,1,Bahrain
+1855,3020,2010,Hepatic viral infection,2,2,Bahrain
+1856,3020,2010,Hepatic viral infection,2,1,Bahrain
+1857,3020,2011,Self-harm,1,2,Bahrain
+1858,3020,2011,Self-harm,1,1,Bahrain
+1859,3020,2011,Self-harm,1,1,Bahrain
+1860,3020,2011,Self-harm,1,1,Bahrain
+1861,3020,2011,Self-harm,1,23,Bahrain
+1862,3020,2011,Self-harm,1,5,Bahrain
+1863,3020,2011,Self-harm,1,1,Bahrain
+1864,3020,2011,Self-harm,1,13,Bahrain
+1865,3020,2011,Self-harm,1,1,Bahrain
+1866,3020,2011,Other heart diseases,1,15,Bahrain
+1867,3020,2011,Other heart diseases,1,13,Bahrain
+1868,3020,2011,Other heart diseases,1,2,Bahrain
+1869,3020,2011,Other heart diseases,1,11,Bahrain
+1870,3020,2011,Other heart diseases,1,194,Bahrain
+1871,3020,2011,Other heart diseases,1,7,Bahrain
+1872,3020,2011,Other heart diseases,1,1,Bahrain
+1873,3020,2011,Other heart diseases,1,1,Bahrain
+1874,3020,2011,AIDS\HIV,2,1,Bahrain
+1875,3020,2011,Hepatic viral infection,2,3,Bahrain
+1876,3020,2011,Hepatic viral infection,2,1,Bahrain
+1877,3020,2011,Other heart diseases,1,4,Bahrain
+1878,3020,2011,Other heart diseases,1,6,Bahrain
+1879,3020,2011,Ischmic Heart diseases,1,50,Bahrain
+1880,3020,2011,Ischmic Heart diseases,1,2,Bahrain
+1881,3020,2011,Ischmic Heart diseases,1,36,Bahrain
+1882,3020,2011,Hypertensive disorders,1,121,Bahrain
+1883,3020,2011,Mental disorders,1,1,Bahrain
+1884,3020,2011,Mental disorders,1,1,Bahrain
+1885,3020,2011,Mental disorders,1,1,Bahrain
+1886,3020,2011,Mental disorders,1,2,Bahrain
+1887,3020,2011,Mental disorders,1,1,Bahrain
+1888,3020,2011,AIDS\HIV,1,6,Bahrain
+1889,3020,2011,AIDS\HIV,1,2,Bahrain
+1890,3020,2011,Hepatic viral infection,1,13,Bahrain
+1891,3020,2011,Hepatic viral infection,1,4,Bahrain
+1892,3020,2011,Hypertensive disorders,9,1,Bahrain
+1893,3020,2011,Hypertensive disorders,2,125,Bahrain
+1894,3020,2011,Rhumatic Fever,2,1,Bahrain
+1895,3020,2011,Mental disorders,2,2,Bahrain
+1896,3020,2011,Mental disorders,2,1,Bahrain
+1897,3020,2011,Mental disorders,2,1,Bahrain
+1898,3020,2011,Mental disorders,2,1,Bahrain
+1899,3020,2011,Mental disorders,2,1,Bahrain
+1900,3020,2011,Hypertensive disorders,2,1,Bahrain
+1901,3020,2011,Ischmic Heart diseases,2,8,Bahrain
+1902,3020,2011,Other heart diseases,2,2,Bahrain
+1903,3020,2011,Self-harm,2,3,Bahrain
+1904,3020,2011,Self-harm,2,1,Bahrain
+1905,3020,2011,Self-harm,2,32,Bahrain
+1906,3020,2011,Self-harm,2,4,Bahrain
+1907,3020,2011,Self-harm,2,4,Bahrain
+1908,3020,2011,Self-harm,2,1,Bahrain
+1909,3020,2011,Other heart diseases,2,12,Bahrain
+1910,3020,2011,Other heart diseases,2,6,Bahrain
+1911,3020,2011,Other heart diseases,2,2,Bahrain
+1912,3020,2011,Other heart diseases,2,14,Bahrain
+1913,3020,2011,Other heart diseases,2,45,Bahrain
+1914,3020,2011,Other heart diseases,2,1,Bahrain
+1915,3020,2011,Other heart diseases,2,1,Bahrain
+1916,3020,2011,Other heart diseases,2,2,Bahrain
+1917,3020,2011,Ischmic Heart diseases,2,30,Bahrain
+1918,3020,2012,AIDS\HIV,1,3,Bahrain
+1919,3020,2012,Hepatic viral infection,1,13,Bahrain
+1920,3020,2012,Hepatic viral infection,1,3,Bahrain
+1921,3020,2012,Hepatic viral infection,1,1,Bahrain
+1922,3020,2012,Other heart diseases,9,1,Bahrain
+1923,3020,2012,Other heart diseases,2,4,Bahrain
+1924,3020,2012,Self-harm,2,4,Bahrain
+1925,3020,2012,Self-harm,2,3,Bahrain
+1926,3020,2012,Self-harm,2,1,Bahrain
+1927,3020,2012,Self-harm,2,1,Bahrain
+1928,3020,2012,Self-harm,2,31,Bahrain
+1929,3020,2012,Self-harm,2,1,Bahrain
+1930,3020,2012,Self-harm,2,1,Bahrain
+1931,3020,2012,Self-harm,2,3,Bahrain
+1932,3020,2012,Self-harm,2,1,Bahrain
+1933,3020,2012,Other heart diseases,2,4,Bahrain
+1934,3020,2012,Other heart diseases,2,1,Bahrain
+1935,3020,2012,Other heart diseases,2,16,Bahrain
+1936,3020,2012,Other heart diseases,2,56,Bahrain
+1937,3020,2012,Self-harm,1,4,Bahrain
+1938,3020,2012,Self-harm,1,1,Bahrain
+1939,3020,2012,Self-harm,1,46,Bahrain
+1940,3020,2012,Other heart diseases,1,1,Bahrain
+1941,3020,2012,Other heart diseases,1,1,Bahrain
+1942,3020,2012,Other heart diseases,1,1,Bahrain
+1943,3020,2012,Other heart diseases,1,1,Bahrain
+1944,3020,2012,Other heart diseases,1,4,Bahrain
+1945,3020,2012,Other heart diseases,1,1,Bahrain
+1946,3020,2012,Other heart diseases,1,212,Bahrain
+1947,3020,2012,Other heart diseases,1,2,Bahrain
+1948,3020,2012,Other heart diseases,1,7,Bahrain
+1949,3020,2012,Other heart diseases,1,8,Bahrain
+1950,3020,2012,Self-harm,1,3,Bahrain
+1951,3020,2012,Self-harm,1,3,Bahrain
+1952,3020,2012,Self-harm,1,7,Bahrain
+1953,3020,2012,Other heart diseases,1,6,Bahrain
+1954,3020,2012,Other heart diseases,1,2,Bahrain
+1955,3020,2012,Ischmic Heart diseases,1,42,Bahrain
+1956,3020,2012,Ischmic Heart diseases,1,7,Bahrain
+1957,3020,2012,Ischmic Heart diseases,1,29,Bahrain
+1958,3020,2012,Hypertensive disorders,1,2,Bahrain
+1959,3020,2012,Hypertensive disorders,1,11,Bahrain
+1960,3020,2012,Hypertensive disorders,1,2,Bahrain
+1961,3020,2012,Hypertensive disorders,1,113,Bahrain
+1962,3020,2012,Mental disorders,1,1,Bahrain
+1963,3020,2012,Mental disorders,1,2,Bahrain
+1964,3020,2012,Mental disorders,1,1,Bahrain
+1965,3020,2012,Mental disorders,1,1,Bahrain
+1966,3020,2012,Other heart diseases,2,1,Bahrain
+1967,3020,2012,Other heart diseases,2,2,Bahrain
+1968,3020,2012,Other heart diseases,2,3,Bahrain
+1969,3020,2012,Other heart diseases,2,7,Bahrain
+1970,3020,2012,Other heart diseases,2,1,Bahrain
+1971,3020,2012,Ischmic Heart diseases,2,34,Bahrain
+1972,3020,2012,Ischmic Heart diseases,2,11,Bahrain
+1973,3020,2012,Hypertensive disorders,2,1,Bahrain
+1974,3020,2012,Hypertensive disorders,2,14,Bahrain
+1975,3020,2012,Hypertensive disorders,2,3,Bahrain
+1976,3020,2012,Hypertensive disorders,2,100,Bahrain
+1977,3020,2012,Mental disorders,2,2,Bahrain
+1978,3020,2012,Mental disorders,2,1,Bahrain
+1979,3020,2012,Mental disorders,2,1,Bahrain
+1980,3020,2012,AIDS\HIV,2,4,Bahrain
+1981,3020,2012,AIDS\HIV,2,1,Bahrain
+1982,3020,2012,Hepatic viral infection,2,1,Bahrain
+1983,3020,2012,Hepatic viral infection,2,1,Bahrain
+1984,3020,2013,Rhumatic Fever,2,1,Bahrain
+1985,3020,2013,Rhumatic Fever,2,1,Bahrain
+1986,3020,2013,Rhumatic Fever,2,1,Bahrain
+1987,3020,2013,Rhumatic Fever,2,1,Bahrain
+1988,3020,2013,Hypertensive disorders,2,73,Bahrain
+1989,3020,2013,Hypertensive disorders,2,7,Bahrain
+1990,3020,2013,Hypertensive disorders,2,13,Bahrain
+1991,3020,2013,Hypertensive disorders,2,1,Bahrain
+1992,3020,2013,Ischmic Heart diseases,2,4,Bahrain
+1993,3020,2013,Ischmic Heart diseases,2,9,Bahrain
+1994,3020,2013,Other heart diseases,2,4,Bahrain
+1995,3020,2013,Other heart diseases,2,1,Bahrain
+1996,3020,2013,Other heart diseases,2,1,Bahrain
+1997,3020,2013,Other heart diseases,2,4,Bahrain
+1998,3020,2013,Other heart diseases,2,6,Bahrain
+1999,3020,2013,Other heart diseases,2,1,Bahrain
+2000,3020,2013,Other heart diseases,2,53,Bahrain
+2001,3020,2013,Other heart diseases,2,28,Bahrain
+2002,3020,2013,Other heart diseases,2,1,Bahrain
+2003,3020,2013,Other heart diseases,2,6,Bahrain
+2004,3020,2013,Other heart diseases,2,5,Bahrain
+2005,3020,2013,Self-harm,2,3,Bahrain
+2006,3020,2013,Self-harm,2,3,Bahrain
+2007,3020,2013,Ischmic Heart diseases,2,23,Bahrain
+2008,3020,2013,Mental disorders,2,3,Bahrain
+2009,3020,2013,Mental disorders,2,2,Bahrain
+2010,3020,2013,Self-harm,2,1,Bahrain
+2011,3020,2013,Self-harm,2,31,Bahrain
+2012,3020,2013,Self-harm,2,3,Bahrain
+2013,3020,2013,Sexual Transmmited diseases,1,1,Bahrain
+2014,3020,2013,Hepatic viral infection,1,7,Bahrain
+2015,3020,2013,AIDS\HIV,1,2,Bahrain
+2016,3020,2013,Hepatic viral infection,2,6,Bahrain
+2017,3020,2013,AIDS\HIV,2,2,Bahrain
+2018,3020,2013,AIDS\HIV,2,1,Bahrain
+2019,3020,2013,AIDS\HIV,1,3,Bahrain
+2020,3020,2013,Mental disorders,1,1,Bahrain
+2021,3020,2013,Mental disorders,1,2,Bahrain
+2022,3020,2013,Mental disorders,1,1,Bahrain
+2023,3020,2013,Mental disorders,1,1,Bahrain
+2024,3020,2013,Mental disorders,1,1,Bahrain
+2025,3020,2013,Mental disorders,1,2,Bahrain
+2026,3020,2013,Other heart diseases,1,6,Bahrain
+2027,3020,2013,Other heart diseases,1,8,Bahrain
+2028,3020,2013,Self-harm,1,1,Bahrain
+2029,3020,2013,Self-harm,1,3,Bahrain
+2030,3020,2013,Self-harm,1,2,Bahrain
+2031,3020,2013,Self-harm,1,5,Bahrain
+2032,3020,2013,Self-harm,1,38,Bahrain
+2033,3020,2013,Self-harm,1,3,Bahrain
+2034,3020,2013,Self-harm,1,2,Bahrain
+2035,3020,2013,Self-harm,1,1,Bahrain
+2036,3020,2013,Self-harm,1,2,Bahrain
+2037,3020,2013,Other heart diseases,1,2,Bahrain
+2038,3020,2013,Other heart diseases,1,15,Bahrain
+2039,3020,2013,Other heart diseases,1,2,Bahrain
+2040,3020,2013,Rhumatic Fever,1,1,Bahrain
+2041,3020,2013,Rhumatic Fever,1,1,Bahrain
+2042,3020,2013,Hypertensive disorders,1,84,Bahrain
+2043,3020,2013,Hypertensive disorders,1,3,Bahrain
+2044,3020,2013,Hypertensive disorders,1,15,Bahrain
+2045,3020,2013,Hypertensive disorders,1,2,Bahrain
+2046,3020,2013,Ischmic Heart diseases,1,2,Bahrain
+2047,3020,2013,Ischmic Heart diseases,1,20,Bahrain
+2048,3020,2013,Ischmic Heart diseases,1,43,Bahrain
+2049,3020,2013,Other heart diseases,1,2,Bahrain
+2050,3020,2013,Other heart diseases,1,1,Bahrain
+2051,3020,2013,Other heart diseases,1,2,Bahrain
+2052,3020,2013,Other heart diseases,1,7,Bahrain
+2053,3020,2013,Other heart diseases,1,1,Bahrain
+2054,3020,2013,Other heart diseases,1,274,Bahrain
+2055,3020,2014,Hepatic viral infection,1,15,Bahrain
+2056,3020,2014,AIDS\HIV,1,5,Bahrain
+2057,3020,2014,AIDS\HIV,1,1,Bahrain
+2058,3020,2014,AIDS\HIV,1,1,Bahrain
+2059,3020,2014,AIDS\HIV,1,1,Bahrain
+2060,3020,2014,Mental disorders,1,2,Bahrain
+2061,3020,2014,Mental disorders,1,1,Bahrain
+2062,3020,2014,Mental disorders,1,1,Bahrain
+2063,3020,2014,Rhumatic Fever,1,1,Bahrain
+2064,3020,2014,Rhumatic Fever,1,1,Bahrain
+2065,3020,2014,Hypertensive disorders,1,98,Bahrain
+2066,3020,2014,Hypertensive disorders,1,7,Bahrain
+2067,3020,2014,Hypertensive disorders,1,5,Bahrain
+2068,3020,2014,Mental disorders,1,3,Bahrain
+2069,3020,2014,Hypertensive disorders,1,3,Bahrain
+2070,3020,2014,Mental disorders,1,1,Bahrain
+2071,3020,2014,Mental disorders,1,1,Bahrain
+2072,3020,2014,Ischmic Heart diseases,1,2,Bahrain
+2073,3020,2014,Ischmic Heart diseases,1,28,Bahrain
+2074,3020,2014,Self-harm,1,1,Bahrain
+2075,3020,2014,Self-harm,1,1,Bahrain
+2076,3020,2014,Self-harm,1,3,Bahrain
+2077,3020,2014,Self-harm,1,3,Bahrain
+2078,3020,2014,Ischmic Heart diseases,1,1,Bahrain
+2079,3020,2014,Ischmic Heart diseases,1,2,Bahrain
+2080,3020,2014,Ischmic Heart diseases,1,29,Bahrain
+2081,3020,2014,Other heart diseases,1,2,Bahrain
+2082,3020,2014,Other heart diseases,1,1,Bahrain
+2083,3020,2014,Other heart diseases,1,2,Bahrain
+2084,3020,2014,Other heart diseases,1,8,Bahrain
+2085,3020,2014,Other heart diseases,1,1,Bahrain
+2086,3020,2014,Other heart diseases,1,309,Bahrain
+2087,3020,2014,Other heart diseases,1,4,Bahrain
+2088,3020,2014,Other heart diseases,1,2,Bahrain
+2089,3020,2014,Other heart diseases,1,10,Bahrain
+2090,3020,2014,Self-harm,1,2,Bahrain
+2091,3020,2014,Self-harm,1,7,Bahrain
+2092,3020,2014,Self-harm,1,5,Bahrain
+2093,3020,2014,Self-harm,1,8,Bahrain
+2094,3020,2014,Self-harm,1,25,Bahrain
+2095,3020,2014,Other heart diseases,1,23,Bahrain
+2096,3020,2014,Other heart diseases,2,1,Bahrain
+2097,3020,2014,Other heart diseases,2,4,Bahrain
+2098,3020,2014,Other heart diseases,2,3,Bahrain
+2099,3020,2014,Other heart diseases,2,74,Bahrain
+2100,3020,2014,Other heart diseases,2,25,Bahrain
+2101,3020,2014,Other heart diseases,2,2,Bahrain
+2102,3020,2014,Other heart diseases,2,6,Bahrain
+2103,3020,2014,Self-harm,2,3,Bahrain
+2104,3020,2014,Self-harm,2,4,Bahrain
+2105,3020,2014,Self-harm,2,22,Bahrain
+2106,3020,2014,Self-harm,2,1,Bahrain
+2107,3020,2014,Self-harm,2,1,Bahrain
+2108,3020,2014,Self-harm,2,2,Bahrain
+2109,3020,2014,Self-harm,2,2,Bahrain
+2110,3020,2014,Self-harm,2,4,Bahrain
+2111,3020,2014,Self-harm,2,1,Bahrain
+2112,3020,2014,Other heart diseases,2,3,Bahrain
+2113,3020,2014,Ischmic Heart diseases,2,14,Bahrain
+2114,3020,2014,Ischmic Heart diseases,2,8,Bahrain
+2115,3020,2014,Hepatic viral infection,2,6,Bahrain
+2116,3020,2014,Rhumatic Fever,2,4,Bahrain
+2117,3020,2014,Rhumatic Fever,2,2,Bahrain
+2118,3020,2014,Rhumatic Fever,2,2,Bahrain
+2119,3020,2014,Hypertensive disorders,2,65,Bahrain
+2120,3020,2014,Hypertensive disorders,2,9,Bahrain
+2121,3020,2014,Hypertensive disorders,2,4,Bahrain
+2122,3020,2014,Hypertensive disorders,2,2,Bahrain
+2123,3020,2014,Ischmic Heart diseases,2,1,Bahrain
+2124,3020,2014,Mental disorders,2,1,Bahrain
+2125,3020,2014,Mental disorders,2,4,Bahrain
+2126,3020,2014,Mental disorders,2,2,Bahrain
+2127,3020,2014,Ischmic Heart diseases,2,1,Bahrain
+2128,3140,2008,Rhumatic Fever,2,10,Iraq
+2129,3140,2008,Rhumatic Fever,2,4,Iraq
+2130,3140,2008,Rhumatic Fever,2,1,Iraq
+2131,3140,2008,Rhumatic Fever,2,13,Iraq
+2132,3140,2008,Rhumatic Fever,2,14,Iraq
+2133,3140,2008,Rhumatic Fever,2,3,Iraq
+2134,3140,2008,Rhumatic Fever,2,36,Iraq
+2135,3140,2008,Rhumatic Fever,2,63,Iraq
+2136,3140,2008,Hypertensive disorders,2,1867,Iraq
+2137,3140,2008,Hypertensive disorders,2,40,Iraq
+2138,3140,2008,Hypertensive disorders,2,21,Iraq
+2139,3140,2008,Hypertensive disorders,2,9,Iraq
+2140,3140,2008,Ischmic Heart diseases,2,355,Iraq
+2141,3140,2008,Ischmic Heart diseases,2,2637,Iraq
+2142,3140,2008,Ischmic Heart diseases,2,87,Iraq
+2143,3140,2008,Ischmic Heart diseases,2,55,Iraq
+2144,3140,2008,Ischmic Heart diseases,2,147,Iraq
+2145,3140,2008,Other heart diseases,2,638,Iraq
+2146,3140,2008,Other heart diseases,2,182,Iraq
+2147,3140,2008,Other heart diseases,2,5,Iraq
+2148,3140,2008,Other heart diseases,2,5,Iraq
+2149,3140,2008,Other heart diseases,2,2,Iraq
+2150,3140,2008,Self-harm,2,4,Iraq
+2151,3140,2008,Self-harm,2,2,Iraq
+2152,3140,2008,Self-harm,2,1,Iraq
+2153,3140,2008,Self-harm,2,2,Iraq
+2154,3140,2008,Self-harm,2,1,Iraq
+2155,3140,2008,Self-harm,2,4,Iraq
+2156,3140,2008,Self-harm,2,9,Iraq
+2157,3140,2008,Self-harm,2,89,Iraq
+2158,3140,2008,Self-harm,2,1,Iraq
+2159,3140,2008,Other heart diseases,2,8,Iraq
+2160,3140,2008,Other heart diseases,2,4,Iraq
+2161,3140,2008,Other heart diseases,2,7,Iraq
+2162,3140,2008,Other heart diseases,2,1,Iraq
+2163,3140,2008,Other heart diseases,2,1,Iraq
+2164,3140,2008,Other heart diseases,2,15,Iraq
+2165,3140,2008,Other heart diseases,2,112,Iraq
+2166,3140,2008,Other heart diseases,2,24,Iraq
+2167,3140,2008,Other heart diseases,2,2260,Iraq
+2168,3140,2008,Other heart diseases,2,9,Iraq
+2169,3140,2008,Other heart diseases,2,25,Iraq
+2170,3140,2008,Other heart diseases,2,59,Iraq
+2171,3140,2008,Other heart diseases,2,375,Iraq
+2172,3140,2008,Self-harm,2,260,Iraq
+2173,3140,2008,Self-harm,2,188,Iraq
+2174,3140,2008,Self-harm,2,13,Iraq
+2175,3140,2008,Self-harm,2,464,Iraq
+2176,3140,2008,Self-harm,2,2891,Iraq
+2177,3140,2008,Self-harm,2,549,Iraq
+2178,3140,2008,Self-harm,2,63,Iraq
+2179,3140,2008,Self-harm,2,301,Iraq
+2180,3140,2008,Self-harm,2,13,Iraq
+2181,3140,2008,Self-harm,2,2,Iraq
+2182,3140,2008,Other heart diseases,2,6481,Iraq
+2183,3140,2008,Mental disorders,2,166,Iraq
+2184,3140,2008,Mental disorders,2,7,Iraq
+2185,3140,2008,Mental disorders,2,1,Iraq
+2186,3140,2008,Mental disorders,2,1,Iraq
+2187,3140,2008,Mental disorders,2,1,Iraq
+2188,3140,2008,Mental disorders,2,12,Iraq
+2189,3140,2008,Mental disorders,2,2,Iraq
+2190,3140,2008,Mental disorders,2,1,Iraq
+2191,3140,2008,Mental disorders,2,2,Iraq
+2192,3140,2008,Mental disorders,2,1,Iraq
+2193,3140,2008,Mental disorders,2,5,Iraq
+2194,3140,2008,Mental disorders,2,1,Iraq
+2195,3140,2008,Mental disorders,2,6,Iraq
+2196,3140,2008,Mental disorders,2,1,Iraq
+2197,3140,2008,Mental disorders,2,3,Iraq
+2198,3140,2008,Hepatic viral infection,2,30,Iraq
+2199,3140,2008,Hepatic viral infection,2,8,Iraq
+2200,3140,2008,Hepatic viral infection,2,7,Iraq
+2201,3140,2008,Hepatic viral infection,2,6,Iraq
+2202,3140,2008,Hepatic viral infection,2,13,Iraq
+2203,3140,2008,Sexual Transmmited diseases,2,2,Iraq
+2204,3140,2008,Hepatic viral infection,1,10,Iraq
+2205,3140,2008,Hepatic viral infection,1,12,Iraq
+2206,3140,2008,Hepatic viral infection,1,9,Iraq
+2207,3140,2008,Hepatic viral infection,1,17,Iraq
+2208,3140,2008,Hepatic viral infection,1,44,Iraq
+2209,3140,2008,Sexual Transmmited diseases,1,3,Iraq
+2210,3140,2008,Sexual Transmmited diseases,1,1,Iraq
+2211,3140,2008,Rhumatic Fever,1,47,Iraq
+2212,3140,2008,Rhumatic Fever,1,65,Iraq
+2213,3140,2008,Hypertensive disorders,1,1740,Iraq
+2214,3140,2008,Hypertensive disorders,1,53,Iraq
+2215,3140,2008,Hypertensive disorders,1,14,Iraq
+2216,3140,2008,Hypertensive disorders,1,3,Iraq
+2217,3140,2008,Ischmic Heart diseases,1,466,Iraq
+2218,3140,2008,Ischmic Heart diseases,1,3774,Iraq
+2219,3140,2008,Ischmic Heart diseases,1,140,Iraq
+2220,3140,2008,Ischmic Heart diseases,1,88,Iraq
+2221,3140,2008,Ischmic Heart diseases,1,218,Iraq
+2222,3140,2008,Other heart diseases,1,618,Iraq
+2223,3140,2008,Other heart diseases,1,177,Iraq
+2224,3140,2008,Other heart diseases,1,7,Iraq
+2225,3140,2008,Other heart diseases,1,3,Iraq
+2226,3140,2008,Other heart diseases,1,1,Iraq
+2227,3140,2008,Other heart diseases,1,2,Iraq
+2228,3140,2008,Other heart diseases,1,13,Iraq
+2229,3140,2008,Other heart diseases,1,5,Iraq
+2230,3140,2008,Other heart diseases,1,13,Iraq
+2231,3140,2008,Other heart diseases,1,1,Iraq
+2232,3140,2008,Other heart diseases,1,2,Iraq
+2233,3140,2008,Other heart diseases,1,33,Iraq
+2234,3140,2008,Rhumatic Fever,1,2,Iraq
+2235,3140,2008,Other heart diseases,1,171,Iraq
+2236,3140,2008,Rhumatic Fever,1,16,Iraq
+2237,3140,2008,Rhumatic Fever,1,1,Iraq
+2238,3140,2008,Rhumatic Fever,1,6,Iraq
+2239,3140,2008,Rhumatic Fever,1,4,Iraq
+2240,3140,2008,Other heart diseases,1,2,Iraq
+2241,3140,2008,Other heart diseases,1,27,Iraq
+2242,3140,2008,Other heart diseases,1,2529,Iraq
+2243,3140,2008,Other heart diseases,1,12,Iraq
+2244,3140,2008,Other heart diseases,1,29,Iraq
+2245,3140,2008,Other heart diseases,1,125,Iraq
+2246,3140,2008,Other heart diseases,1,6783,Iraq
+2247,3140,2008,Other heart diseases,1,474,Iraq
+2248,3140,2008,Self-harm,1,173,Iraq
+2249,3140,2008,Self-harm,1,290,Iraq
+2250,3140,2008,Self-harm,1,15,Iraq
+2251,3140,2008,Self-harm,1,496,Iraq
+2252,3140,2008,Self-harm,1,2924,Iraq
+2253,3140,2008,Self-harm,1,581,Iraq
+2254,3140,2008,Self-harm,1,80,Iraq
+2255,3140,2008,Self-harm,1,27,Iraq
+2256,3140,2008,Self-harm,1,3,Iraq
+2257,3140,2008,Self-harm,1,5,Iraq
+2258,3140,2008,Self-harm,1,63,Iraq
+2259,3140,2008,Self-harm,1,1,Iraq
+2260,3140,2008,Self-harm,1,10,Iraq
+2261,3140,2008,Self-harm,1,2,Iraq
+2262,3140,2008,Self-harm,1,2,Iraq
+2263,3140,2008,Self-harm,1,1,Iraq
+2264,3140,2008,Self-harm,1,1,Iraq
+2265,3140,2008,Self-harm,1,320,Iraq
+2266,3140,2008,Mental disorders,1,4,Iraq
+2267,3140,2008,Mental disorders,1,1,Iraq
+2268,3140,2008,Mental disorders,1,6,Iraq
+2269,3140,2008,Mental disorders,1,2,Iraq
+2270,3140,2008,Mental disorders,1,11,Iraq
+2271,3140,2008,Mental disorders,1,1,Iraq
+2272,3140,2008,Mental disorders,1,1,Iraq
+2273,3140,2008,Mental disorders,1,2,Iraq
+2274,3140,2008,Mental disorders,1,4,Iraq
+2275,3140,2008,Mental disorders,1,3,Iraq
+2276,3140,2008,Mental disorders,1,144,Iraq
+2277,3140,2008,Mental disorders,1,9,Iraq
+2278,3140,2008,Mental disorders,1,1,Iraq
+2279,3140,2008,Mental disorders,1,3,Iraq
+2280,3140,2008,Mental disorders,1,2,Iraq
+2281,3140,2008,Mental disorders,1,1,Iraq
+2282,3140,2015,Other heart diseases,2,6,Iraq
+2283,3140,2015,Other heart diseases,2,97,Iraq
+2284,3140,2015,Other heart diseases,2,48,Iraq
+2285,3140,2015,Other heart diseases,2,5,Iraq
+2286,3140,2015,Other heart diseases,2,1,Iraq
+2287,3140,2015,Other heart diseases,2,2,Iraq
+2288,3140,2015,Other heart diseases,2,5,Iraq
+2289,3140,2015,Other heart diseases,2,28,Iraq
+2290,3140,2015,Other heart diseases,2,1,Iraq
+2291,3140,2015,Other heart diseases,2,1,Iraq
+2292,3140,2015,Other heart diseases,2,10,Iraq
+2293,3140,2015,Other heart diseases,2,80,Iraq
+2294,3140,2015,Other heart diseases,2,94,Iraq
+2295,3140,2015,Other heart diseases,2,8,Iraq
+2296,3140,2015,Ischmic Heart diseases,2,108,Iraq
+2297,3140,2015,Ischmic Heart diseases,2,109,Iraq
+2298,3140,2015,Ischmic Heart diseases,2,3369,Iraq
+2299,3140,2015,Ischmic Heart diseases,2,310,Iraq
+2300,3140,2015,Hypertensive disorders,2,3,Iraq
+2301,3140,2015,Hypertensive disorders,2,36,Iraq
+2302,3140,2015,Hypertensive disorders,2,115,Iraq
+2303,3140,2015,Hypertensive disorders,2,3362,Iraq
+2304,3140,2015,Rhumatic Fever,2,9,Iraq
+2305,3140,2015,Rhumatic Fever,2,11,Iraq
+2306,3140,2015,Rhumatic Fever,2,1,Iraq
+2307,3140,2015,Rhumatic Fever,2,12,Iraq
+2308,3140,2015,Rhumatic Fever,2,43,Iraq
+2309,3140,2015,Ischmic Heart diseases,2,357,Iraq
+2310,3140,2015,Other heart diseases,2,968,Iraq
+2311,3140,2015,Other heart diseases,2,7,Iraq
+2312,3140,2015,Other heart diseases,2,75,Iraq
+2313,3140,2015,Self-harm,2,3,Iraq
+2314,3140,2015,Self-harm,2,4,Iraq
+2315,3140,2015,Self-harm,2,1,Iraq
+2316,3140,2015,Self-harm,2,5,Iraq
+2317,3140,2015,Self-harm,2,24,Iraq
+2318,3140,2015,Self-harm,2,32,Iraq
+2319,3140,2015,Self-harm,2,2,Iraq
+2320,3140,2015,Self-harm,2,2,Iraq
+2321,3140,2015,Self-harm,2,10,Iraq
+2322,3140,2015,Self-harm,2,269,Iraq
+2323,3140,2015,Self-harm,2,8,Iraq
+2324,3140,2015,Self-harm,2,642,Iraq
+2325,3140,2015,Self-harm,2,3653,Iraq
+2326,3140,2015,Self-harm,2,891,Iraq
+2327,3140,2015,Self-harm,2,21,Iraq
+2328,3140,2015,Self-harm,2,377,Iraq
+2329,3140,2015,Self-harm,2,27,Iraq
+2330,3140,2015,Other heart diseases,2,117,Iraq
+2331,3140,2015,Other heart diseases,2,4701,Iraq
+2332,3140,2015,Other heart diseases,2,15,Iraq
+2333,3140,2015,Rhumatic Fever,2,3,Iraq
+2334,3140,2015,Mental disorders,1,2,Iraq
+2335,3140,2015,Mental disorders,1,5,Iraq
+2336,3140,2015,Mental disorders,1,3,Iraq
+2337,3140,2015,Mental disorders,1,2,Iraq
+2338,3140,2015,Mental disorders,1,1,Iraq
+2339,3140,2015,Mental disorders,1,1,Iraq
+2340,3140,2015,Self-harm,1,1,Iraq
+2341,3140,2015,Self-harm,1,7,Iraq
+2342,3140,2015,Self-harm,1,1,Iraq
+2343,3140,2015,Self-harm,1,1,Iraq
+2344,3140,2015,Self-harm,1,1,Iraq
+2345,3140,2015,Self-harm,1,16,Iraq
+2346,3140,2015,Self-harm,1,2,Iraq
+2347,3140,2015,Self-harm,1,1,Iraq
+2348,3140,2015,Self-harm,1,14,Iraq
+2349,3140,2015,Self-harm,1,287,Iraq
+2350,3140,2015,Self-harm,1,3,Iraq
+2351,3140,2015,Self-harm,1,585,Iraq
+2352,3140,2015,Self-harm,1,3454,Iraq
+2353,3140,2015,Self-harm,1,827,Iraq
+2354,3140,2015,Self-harm,1,27,Iraq
+2355,3140,2015,Self-harm,1,864,Iraq
+2356,3140,2015,Self-harm,1,25,Iraq
+2357,3140,2015,Other heart diseases,1,123,Iraq
+2358,3140,2015,Self-harm,1,20,Iraq
+2359,3140,2015,Other heart diseases,1,4442,Iraq
+2360,3140,2015,Other heart diseases,1,23,Iraq
+2361,3140,2015,Other heart diseases,1,72,Iraq
+2362,3140,2015,Other heart diseases,1,11,Iraq
+2363,3140,2015,Other heart diseases,1,997,Iraq
+2364,3140,2015,Other heart diseases,1,7,Iraq
+2365,3140,2015,Other heart diseases,1,3,Iraq
+2366,3140,2015,Other heart diseases,1,161,Iraq
+2367,3140,2015,Other heart diseases,1,37,Iraq
+2368,3140,2015,Other heart diseases,1,4,Iraq
+2369,3140,2015,Other heart diseases,1,1,Iraq
+2370,3140,2015,Other heart diseases,1,4,Iraq
+2371,3140,2015,Other heart diseases,1,35,Iraq
+2372,3140,2015,Other heart diseases,1,2,Iraq
+2373,3140,2015,Other heart diseases,1,1,Iraq
+2374,3140,2015,Other heart diseases,1,9,Iraq
+2375,3140,2015,Other heart diseases,1,83,Iraq
+2376,3140,2015,Other heart diseases,1,62,Iraq
+2377,3140,2015,Ischmic Heart diseases,1,126,Iraq
+2378,3140,2015,Ischmic Heart diseases,1,438,Iraq
+2379,3140,2015,Ischmic Heart diseases,1,125,Iraq
+2380,3140,2015,Ischmic Heart diseases,1,4327,Iraq
+2381,3140,2015,Ischmic Heart diseases,1,321,Iraq
+2382,3140,2015,Hypertensive disorders,1,7,Iraq
+2383,3140,2015,Hypertensive disorders,1,31,Iraq
+2384,3140,2015,Hypertensive disorders,1,87,Iraq
+2385,3140,2015,Hypertensive disorders,1,2858,Iraq
+2386,3140,2015,Rhumatic Fever,1,22,Iraq
+2387,3140,2015,Rhumatic Fever,1,5,Iraq
+2388,3140,2015,Rhumatic Fever,1,20,Iraq
+2389,3140,2015,Rhumatic Fever,1,36,Iraq
+2390,3140,2015,Rhumatic Fever,1,2,Iraq
+2391,3140,2015,Hepatic viral infection,1,7,Iraq
+2392,3140,2015,Hepatic viral infection,1,5,Iraq
+2393,3140,2015,Hepatic viral infection,1,10,Iraq
+2394,3140,2015,Sexual Transmmited diseases,1,1,Iraq
+2395,3140,2015,Sexual Transmmited diseases,1,1,Iraq
+2396,3140,2015,Sexual Transmmited diseases,1,1,Iraq
+2397,3140,2015,Sexual Transmmited diseases,1,1,Iraq
+2398,3140,2015,Hepatic viral infection,1,6,Iraq
+2399,3140,2015,AIDS\HIV,1,1,Iraq
+2400,3140,2015,Hepatic viral infection,1,25,Iraq
+2401,3140,2015,AIDS\HIV,1,2,Iraq
+2402,3140,2015,AIDS\HIV,2,1,Iraq
+2403,3140,2015,AIDS\HIV,2,1,Iraq
+2404,3140,2015,Hepatic viral infection,2,22,Iraq
+2405,3140,2015,Hepatic viral infection,2,4,Iraq
+2406,3140,2015,Hepatic viral infection,2,15,Iraq
+2407,3140,2015,Hepatic viral infection,2,4,Iraq
+2408,3140,2015,Hepatic viral infection,2,7,Iraq
+2409,3140,2015,Sexual Transmmited diseases,2,2,Iraq
+2410,3140,2015,Mental disorders,2,1,Iraq
+2411,3140,2015,Mental disorders,2,1,Iraq
+2412,3140,2015,Mental disorders,2,3,Iraq
+2413,3140,2015,Mental disorders,2,4,Iraq
+2414,3140,2015,Mental disorders,2,1,Iraq
+2415,3140,2015,Mental disorders,2,1,Iraq
+2416,3140,2015,Mental disorders,2,2,Iraq
+2417,3140,2015,Mental disorders,2,3,Iraq
+2418,3140,2015,Mental disorders,2,1,Iraq
+2419,3140,2016,Self-harm,1,746,Iraq
+2420,3140,2016,Self-harm,1,5,Iraq
+2421,3140,2016,Self-harm,1,272,Iraq
+2422,3140,2016,Self-harm,1,26,Iraq
+2423,3140,2016,Self-harm,1,1,Iraq
+2424,3140,2016,Self-harm,1,4,Iraq
+2425,3140,2016,Self-harm,1,3623,Iraq
+2426,3140,2016,Self-harm,1,17,Iraq
+2427,3140,2016,Self-harm,1,3,Iraq
+2428,3140,2016,Self-harm,1,4,Iraq
+2429,3140,2016,Self-harm,1,2,Iraq
+2430,3140,2016,Self-harm,1,25,Iraq
+2431,3140,2016,Self-harm,1,1009,Iraq
+2432,3140,2016,Self-harm,1,1092,Iraq
+2433,3140,2016,Other heart diseases,1,2,Iraq
+2434,3140,2016,Other heart diseases,1,8,Iraq
+2435,3140,2016,Other heart diseases,1,6,Iraq
+2436,3140,2016,Other heart diseases,1,26,Iraq
+2437,3140,2016,Other heart diseases,1,262,Iraq
+2438,3140,2016,Other heart diseases,1,10,Iraq
+2439,3140,2016,Self-harm,1,75,Iraq
+2440,3140,2016,Other heart diseases,1,12,Iraq
+2441,3140,2016,Other heart diseases,1,12,Iraq
+2442,3140,2016,Other heart diseases,1,94,Iraq
+2443,3140,2016,Other heart diseases,1,42,Iraq
+2444,3140,2016,Other heart diseases,1,4797,Iraq
+2445,3140,2016,Other heart diseases,1,163,Iraq
+2446,3140,2016,Self-harm,1,42,Iraq
+2447,3140,2016,Other heart diseases,1,1090,Iraq
+2448,3140,2016,Other heart diseases,1,6,Iraq
+2449,3140,2016,Other heart diseases,1,41,Iraq
+2450,3140,2016,Other heart diseases,1,1,Iraq
+2451,3140,2016,Other heart diseases,1,1,Iraq
+2452,3140,2016,Mental disorders,1,1,Iraq
+2453,3140,2016,Mental disorders,1,1,Iraq
+2454,3140,2016,Mental disorders,1,1,Iraq
+2455,3140,2016,Mental disorders,1,1,Iraq
+2456,3140,2016,Mental disorders,1,1,Iraq
+2457,3140,2016,Mental disorders,1,1,Iraq
+2458,3140,2016,Mental disorders,1,2,Iraq
+2459,3140,2016,Mental disorders,1,6,Iraq
+2460,3140,2016,Mental disorders,1,2,Iraq
+2461,3140,2016,Hypertensive disorders,1,3204,Iraq
+2462,3140,2016,Hypertensive disorders,1,114,Iraq
+2463,3140,2016,Hypertensive disorders,1,32,Iraq
+2464,3140,2016,Hypertensive disorders,1,12,Iraq
+2465,3140,2016,Ischmic Heart diseases,1,345,Iraq
+2466,3140,2016,Rhumatic Fever,1,14,Iraq
+2467,3140,2016,Ischmic Heart diseases,1,4308,Iraq
+2468,3140,2016,Ischmic Heart diseases,1,388,Iraq
+2469,3140,2016,Ischmic Heart diseases,1,214,Iraq
+2470,3140,2016,Other heart diseases,1,64,Iraq
+2471,3140,2016,Other heart diseases,1,55,Iraq
+2472,3140,2016,Other heart diseases,1,10,Iraq
+2473,3140,2016,Other heart diseases,1,2,Iraq
+2474,3140,2016,Ischmic Heart diseases,1,112,Iraq
+2475,3140,2016,Rhumatic Fever,1,6,Iraq
+2476,3140,2016,Rhumatic Fever,1,1,Iraq
+2477,3140,2016,Rhumatic Fever,1,13,Iraq
+2478,3140,2016,Rhumatic Fever,1,31,Iraq
+2479,3140,2016,Sexual Transmmited diseases,1,1,Iraq
+2480,3140,2016,Hepatic viral infection,1,2,Iraq
+2481,3140,2016,Hepatic viral infection,1,9,Iraq
+2482,3140,2016,Hepatic viral infection,1,18,Iraq
+2483,3140,2016,Hepatic viral infection,1,12,Iraq
+2484,3140,2016,Hepatic viral infection,1,24,Iraq
+2485,3140,2016,AIDS\HIV,1,31,Iraq
+2486,3140,2016,AIDS\HIV,1,1,Iraq
+2487,3140,2016,Other heart diseases,2,2,Iraq
+2488,3140,2016,Other heart diseases,2,34,Iraq
+2489,3140,2016,Other heart diseases,2,5,Iraq
+2490,3140,2016,Other heart diseases,2,2,Iraq
+2491,3140,2016,Other heart diseases,2,1,Iraq
+2492,3140,2016,Other heart diseases,2,2,Iraq
+2493,3140,2016,Other heart diseases,2,9,Iraq
+2494,3140,2016,Other heart diseases,2,25,Iraq
+2495,3140,2016,Other heart diseases,2,6,Iraq
+2496,3140,2016,Other heart diseases,2,8,Iraq
+2497,3140,2016,Other heart diseases,2,942,Iraq
+2498,3140,2016,Other heart diseases,2,13,Iraq
+2499,3140,2016,Other heart diseases,2,101,Iraq
+2500,3140,2016,Other heart diseases,2,36,Iraq
+2501,3140,2016,Other heart diseases,2,172,Iraq
+2502,3140,2016,Other heart diseases,2,4856,Iraq
+2503,3140,2016,Other heart diseases,2,76,Iraq
+2504,3140,2016,Ischmic Heart diseases,2,191,Iraq
+2505,3140,2016,Rhumatic Fever,2,1,Iraq
+2506,3140,2016,Rhumatic Fever,2,37,Iraq
+2507,3140,2016,Rhumatic Fever,2,7,Iraq
+2508,3140,2016,Rhumatic Fever,2,8,Iraq
+2509,3140,2016,Rhumatic Fever,2,14,Iraq
+2510,3140,2016,Hypertensive disorders,2,3596,Iraq
+2511,3140,2016,Other heart diseases,2,110,Iraq
+2512,3140,2016,Hypertensive disorders,2,136,Iraq
+2513,3140,2016,Hypertensive disorders,2,15,Iraq
+2514,3140,2016,Ischmic Heart diseases,2,304,Iraq
+2515,3140,2016,Ischmic Heart diseases,2,3551,Iraq
+2516,3140,2016,Ischmic Heart diseases,2,71,Iraq
+2517,3140,2016,Ischmic Heart diseases,2,344,Iraq
+2518,3140,2016,Hypertensive disorders,2,31,Iraq
+2519,3140,2016,Rhumatic Fever,2,1,Iraq
+2520,3140,2016,Other heart diseases,2,139,Iraq
+2521,3140,2016,Self-harm,2,474,Iraq
+2522,3140,2016,Self-harm,2,35,Iraq
+2523,3140,2016,Self-harm,2,1,Iraq
+2524,3140,2016,Self-harm,2,79,Iraq
+2525,3140,2016,Self-harm,2,1008,Iraq
+2526,3140,2016,Self-harm,2,3711,Iraq
+2527,3140,2016,Self-harm,2,704,Iraq
+2528,3140,2016,Self-harm,2,13,Iraq
+2529,3140,2016,Self-harm,2,282,Iraq
+2530,3140,2016,Self-harm,2,21,Iraq
+2531,3140,2016,Self-harm,2,30,Iraq
+2532,3140,2016,Self-harm,2,22,Iraq
+2533,3140,2016,Self-harm,2,1,Iraq
+2534,3140,2016,Self-harm,2,8,Iraq
+2535,3140,2016,Self-harm,2,2,Iraq
+2536,3140,2016,Self-harm,2,3,Iraq
+2537,3140,2016,Self-harm,2,3,Iraq
+2538,3140,2016,Rhumatic Fever,2,3,Iraq
+2539,3140,2016,Mental disorders,2,1,Iraq
+2540,3140,2016,Mental disorders,2,1,Iraq
+2541,3140,2016,Mental disorders,2,3,Iraq
+2542,3140,2016,Mental disorders,2,4,Iraq
+2543,3140,2016,Mental disorders,2,3,Iraq
+2544,3140,2016,Mental disorders,2,1,Iraq
+2545,3140,2016,Mental disorders,2,1,Iraq
+2546,3140,2016,Hepatic viral infection,2,5,Iraq
+2547,3140,2016,Hepatic viral infection,2,4,Iraq
+2548,3140,2016,Hepatic viral infection,2,12,Iraq
+2549,3140,2016,Hepatic viral infection,2,3,Iraq
+2550,3140,2016,Hepatic viral infection,2,23,Iraq
+2551,3140,2016,AIDS\HIV,2,31,Iraq
+2552,3140,2016,AIDS\HIV,2,1,Iraq
+2553,3140,2016,Sexual Transmmited diseases,2,1,Iraq
+2554,3340,2009,Other heart diseases,2,5,Saudi Arabia
+2555,3340,2009,Other heart diseases,1,7,Saudi Arabia
+2556,3340,2009,Hypertensive disorders,2,657,Saudi Arabia
+2557,3340,2009,Hypertensive disorders,1,655,Saudi Arabia
+2558,3340,2009,Self-harm,1,605,Saudi Arabia
+2559,3340,2009,Self-harm,2,479,Saudi Arabia
+2560,3340,2009,AIDS\HIV,2,56,Saudi Arabia
+2561,3340,2009,AIDS\HIV,1,78,Saudi Arabia
+2562,3340,2012,Self-harm,2,3,Saudi Arabia
+2563,3340,2012,Self-harm,2,617,Saudi Arabia
+2564,3340,2012,Self-harm,2,278,Saudi Arabia
+2565,3340,2012,Self-harm,2,151,Saudi Arabia
+2566,3340,2012,Other heart diseases,2,146,Saudi Arabia
+2567,3340,2012,Other heart diseases,2,191,Saudi Arabia
+2568,3340,2012,Other heart diseases,2,14,Saudi Arabia
+2569,3340,2012,Other heart diseases,2,11,Saudi Arabia
+2570,3340,2012,Other heart diseases,2,241,Saudi Arabia
+2571,3340,2012,Other heart diseases,2,1,Saudi Arabia
+2572,3340,2012,Other heart diseases,2,60,Saudi Arabia
+2573,3340,2012,Other heart diseases,2,2,Saudi Arabia
+2574,3340,2012,Other heart diseases,2,4,Saudi Arabia
+2575,3340,2012,Other heart diseases,2,1,Saudi Arabia
+2576,3340,2012,Other heart diseases,2,2,Saudi Arabia
+2577,3340,2012,Other heart diseases,2,10,Saudi Arabia
+2578,3340,2012,Other heart diseases,2,1,Saudi Arabia
+2579,3340,2012,Other heart diseases,2,2,Saudi Arabia
+2580,3340,2012,Other heart diseases,2,128,Saudi Arabia
+2581,3340,2012,Other heart diseases,2,103,Saudi Arabia
+2582,3340,2012,Ischmic Heart diseases,2,211,Saudi Arabia
+2583,3340,2012,Ischmic Heart diseases,2,6,Saudi Arabia
+2584,3340,2012,Ischmic Heart diseases,2,475,Saudi Arabia
+2585,3340,2012,Ischmic Heart diseases,2,1,Saudi Arabia
+2586,3340,2012,Hypertensive disorders,2,638,Saudi Arabia
+2587,3340,2012,Rhumatic Fever,2,8,Saudi Arabia
+2588,3340,2012,Rhumatic Fever,2,1,Saudi Arabia
+2589,3340,2012,Self-harm,2,6,Saudi Arabia
+2590,3340,2012,Self-harm,2,6,Saudi Arabia
+2591,3340,2012,Self-harm,2,31,Saudi Arabia
+2592,3340,2012,Self-harm,2,1,Saudi Arabia
+2593,3340,2012,Self-harm,2,1,Saudi Arabia
+2594,3340,2012,Mental disorders,2,1,Saudi Arabia
+2595,3340,2012,Self-harm,1,16,Saudi Arabia
+2596,3340,2012,Self-harm,1,1,Saudi Arabia
+2597,3340,2012,Self-harm,1,17,Saudi Arabia
+2598,3340,2012,Self-harm,1,13,Saudi Arabia
+2599,3340,2012,Self-harm,1,11,Saudi Arabia
+2600,3340,2012,Self-harm,1,646,Saudi Arabia
+2601,3340,2012,Self-harm,1,371,Saudi Arabia
+2602,3340,2012,Self-harm,1,309,Saudi Arabia
+2603,3340,2012,Other heart diseases,1,220,Saudi Arabia
+2604,3340,2012,Other heart diseases,1,288,Saudi Arabia
+2605,3340,2012,Other heart diseases,1,28,Saudi Arabia
+2606,3340,2012,Other heart diseases,1,9,Saudi Arabia
+2607,3340,2012,Other heart diseases,1,410,Saudi Arabia
+2608,3340,2012,Other heart diseases,1,117,Saudi Arabia
+2609,3340,2012,Other heart diseases,1,2,Saudi Arabia
+2610,3340,2012,Mental disorders,1,1,Saudi Arabia
+2611,3340,2012,Mental disorders,1,1,Saudi Arabia
+2612,3340,2012,Other heart diseases,1,10,Saudi Arabia
+2613,3340,2012,Other heart diseases,1,1,Saudi Arabia
+2614,3340,2012,Other heart diseases,1,2,Saudi Arabia
+2615,3340,2012,Other heart diseases,1,8,Saudi Arabia
+2616,3340,2012,Other heart diseases,1,137,Saudi Arabia
+2617,3340,2012,Other heart diseases,1,111,Saudi Arabia
+2618,3340,2012,Ischmic Heart diseases,1,329,Saudi Arabia
+2619,3340,2012,Ischmic Heart diseases,1,11,Saudi Arabia
+2620,3340,2012,Ischmic Heart diseases,1,1042,Saudi Arabia
+2621,3340,2012,Ischmic Heart diseases,1,3,Saudi Arabia
+2622,3340,2012,Hypertensive disorders,1,3,Saudi Arabia
+2623,3340,2012,Hypertensive disorders,1,1,Saudi Arabia
+2624,3340,2012,Hypertensive disorders,1,722,Saudi Arabia
+2625,3340,2012,Rhumatic Fever,1,7,Saudi Arabia
+2626,3340,2012,Rhumatic Fever,1,1,Saudi Arabia
+2627,3340,2012,Rhumatic Fever,1,1,Saudi Arabia
+2628,3340,2012,AIDS\HIV,2,47,Saudi Arabia
+2629,3340,2012,AIDS\HIV,2,1,Saudi Arabia
+2630,3340,2012,AIDS\HIV,2,2,Saudi Arabia
+2631,3340,2012,Hepatic viral infection,2,8,Saudi Arabia
+2632,3340,2012,Hepatic viral infection,2,1,Saudi Arabia
+2633,3340,2012,Hepatic viral infection,2,13,Saudi Arabia
+2634,3340,2012,Hepatic viral infection,2,1,Saudi Arabia
+2635,3340,2012,AIDS\HIV,1,81,Saudi Arabia
+2636,3340,2012,AIDS\HIV,1,2,Saudi Arabia
+2637,3340,2012,AIDS\HIV,1,1,Saudi Arabia
+2638,3340,2012,Hepatic viral infection,1,9,Saudi Arabia
+2639,3340,2012,Hepatic viral infection,1,3,Saudi Arabia
+2640,3340,2012,Hepatic viral infection,1,1,Saudi Arabia
+2641,3340,2012,Hepatic viral infection,1,32,Saudi Arabia
+2642,3340,2012,Sexual Transmmited diseases,1,1,Saudi Arabia
+2643,3285,2010,Mental disorders,1,4,Oman
+2644,3285,2010,Mental disorders,2,1,Oman
+2645,3285,2010,Mental disorders,2,1,Oman
+2646,3285,2010,Mental disorders,2,2,Oman
+2647,3285,2010,Hypertensive disorders,1,131,Oman
+2648,3285,2010,Hypertensive disorders,2,108,Oman
+2649,3285,2010,Rhumatic Fever,2,4,Oman
+2650,3285,2010,Rhumatic Fever,1,6,Oman
+2651,3285,2010,AIDS\HIV,1,1,Oman
+2652,3285,2010,Self-harm,2,33,Oman
+2653,3285,2010,Self-harm,1,43,Oman
+2654,3285,2010,Self-harm,2,1,Oman
+2655,3285,2010,Other heart diseases,2,16,Oman
+2656,3285,2010,Other heart diseases,1,15,Oman
+2657,3285,2014,AIDS\HIV,1,1,Oman
+2658,3285,2014,Self-harm,1,1,Oman
+2659,3285,2014,Self-harm,2,47,Oman
+2660,3285,2014,Self-harm,1,42,Oman
+2661,3285,2014,Mental disorders,1,1,Oman
+2662,3285,2014,Mental disorders,2,3,Oman
+2663,3285,2014,Hypertensive disorders,2,134,Oman
+2664,3285,2014,Hypertensive disorders,1,145,Oman
+2665,3285,2014,Rhumatic Fever,2,2,Oman
+2666,3285,2014,Rhumatic Fever,1,1,Oman
+2667,3285,2016,Rhumatic Fever,2,2,Oman
+2668,3285,2016,Rhumatic Fever,1,1,Oman
+2669,3285,2016,Mental disorders,1,1,Oman
+2670,3285,2016,Mental disorders,1,1,Oman
+2671,3285,2016,Mental disorders,2,3,Oman
+2672,3285,2016,Mental disorders,1,2,Oman
+2673,3285,2016,Self-harm,2,23,Oman
+2674,3285,2016,Self-harm,1,30,Oman
+2675,3285,2016,AIDS\HIV,1,3,Oman
+2676,3285,2017,Other heart diseases,1,1,Oman
+2677,3285,2017,Other heart diseases,2,2,Oman
+2678,3285,2017,Self-harm,2,1,Oman
+2679,3285,2017,Self-harm,1,37,Oman
+2680,3285,2017,Self-harm,2,16,Oman
+2681,3285,2017,Rhumatic Fever,1,1,Oman
+2682,3285,2017,Hypertensive disorders,1,181,Oman
+2683,3285,2017,Hypertensive disorders,2,131,Oman
+2684,3285,2017,Hypertensive disorders,9,1,Oman
+2685,3285,2017,Mental disorders,1,2,Oman
+2686,3285,2017,Mental disorders,2,2,Oman
+2687,3285,2018,Mental disorders,1,1,Oman
+2688,3285,2018,Rhumatic Fever,1,3,Oman
+2689,3285,2018,Rhumatic Fever,2,3,Oman
+2690,3285,2018,Hypertensive disorders,1,34,Oman
+2691,3285,2018,Hypertensive disorders,2,32,Oman
+2692,3285,2018,Other heart diseases,1,1,Oman
+2693,3285,2018,Self-harm,1,22,Oman
+2694,3285,2018,Self-harm,2,14,Oman
+2695,3285,2019,Self-harm,2,26,Oman
+2696,3285,2019,Self-harm,1,32,Oman
+2697,3285,2019,Other heart diseases,2,1,Oman
+2698,3285,2019,Other heart diseases,1,1,Oman
+2699,3285,2019,Hypertensive disorders,2,48,Oman
+2700,3285,2019,Hypertensive disorders,1,40,Oman
+2701,3285,2019,Rhumatic Fever,2,2,Oman
+2702,3285,2019,Rhumatic Fever,1,8,Oman
+2703,3285,2019,Mental disorders,2,1,Oman
+2704,3285,2019,Mental disorders,1,1,Oman
+2705,3285,2019,AIDS\HIV,1,2,Oman
+2706,3285,2020,Self-harm,1,18,Oman
+2707,3285,2020,Self-harm,2,19,Oman
+2708,3285,2020,AIDS\HIV,1,1,Oman
+2709,3285,2020,Other heart diseases,1,1,Oman
+2710,3285,2020,Mental disorders,2,2,Oman
+2711,3285,2020,Mental disorders,1,1,Oman
+2712,3285,2020,Hypertensive disorders,2,42,Oman
+2713,3285,2020,Hypertensive disorders,1,65,Oman
+2714,3285,2020,Rhumatic Fever,2,2,Oman
+2715,3285,2020,Rhumatic Fever,1,3,Oman
+2716,3285,2021,Self-harm,2,20,Oman
+2717,3285,2021,Self-harm,1,20,Oman
+2718,3285,2021,Hypertensive disorders,2,65,Oman
+2719,3285,2021,Hypertensive disorders,1,51,Oman
+2720,3285,2021,Rhumatic Fever,1,3,Oman
+2721,3285,2021,Rhumatic Fever,2,1,Oman
+2722,3285,2021,Other heart diseases,2,1,Oman
+2723,3285,2021,Mental disorders,2,1,Oman
+2724,3405,2018,Hypertensive disorders,2,70,United Arab Emirates
+2725,3405,2018,Hypertensive disorders,1,148,United Arab Emirates
+2726,3405,2018,Mental disorders,1,1,United Arab Emirates
+2727,3405,2018,Mental disorders,2,2,United Arab Emirates
+2728,3405,2019,Self-harm,1,1,United Arab Emirates
+2729,3405,2019,Self-harm,1,1,United Arab Emirates
+2730,3405,2019,Self-harm,1,2,United Arab Emirates
+2731,3405,2019,Self-harm,1,3,United Arab Emirates
+2732,3405,2019,Self-harm,1,1,United Arab Emirates
+2733,3405,2019,Self-harm,1,11,United Arab Emirates
+2734,3405,2019,Self-harm,1,5,United Arab Emirates
+2735,3405,2019,Self-harm,1,6,United Arab Emirates
+2736,3405,2019,Self-harm,1,29,United Arab Emirates
+2737,3405,2019,Self-harm,1,9,United Arab Emirates
+2738,3405,2019,Self-harm,1,39,United Arab Emirates
+2739,3405,2019,Self-harm,1,18,United Arab Emirates
+2740,3405,2019,Self-harm,1,80,United Arab Emirates
+2741,3405,2019,Self-harm,1,11,United Arab Emirates
+2742,3405,2019,Other heart diseases,1,14,United Arab Emirates
+2743,3405,2019,Other heart diseases,1,148,United Arab Emirates
+2744,3405,2019,Other heart diseases,1,40,United Arab Emirates
+2745,3405,2019,Other heart diseases,1,5,United Arab Emirates
+2746,3405,2019,Other heart diseases,1,6,United Arab Emirates
+2747,3405,2019,Other heart diseases,1,1379,United Arab Emirates
+2748,3405,2019,Mental disorders,1,1,United Arab Emirates
+2749,3405,2019,Mental disorders,1,1,United Arab Emirates
+2750,3405,2019,Mental disorders,1,1,United Arab Emirates
+2751,3405,2019,Mental disorders,1,1,United Arab Emirates
+2752,3405,2019,Mental disorders,1,1,United Arab Emirates
+2753,3405,2019,Mental disorders,1,5,United Arab Emirates
+2754,3405,2019,Mental disorders,1,1,United Arab Emirates
+2755,3405,2019,Mental disorders,1,1,United Arab Emirates
+2756,3405,2019,Other heart diseases,1,23,United Arab Emirates
+2757,3405,2019,Other heart diseases,1,3,United Arab Emirates
+2758,3405,2019,Other heart diseases,1,1,United Arab Emirates
+2759,3405,2019,Other heart diseases,1,4,United Arab Emirates
+2760,3405,2019,Other heart diseases,1,1,United Arab Emirates
+2761,3405,2019,Other heart diseases,1,4,United Arab Emirates
+2762,3405,2019,Other heart diseases,1,3,United Arab Emirates
+2763,3405,2019,Other heart diseases,1,2,United Arab Emirates
+2764,3405,2019,Other heart diseases,1,18,United Arab Emirates
+2765,3405,2019,Ischmic Heart diseases,1,142,United Arab Emirates
+2766,3405,2019,Ischmic Heart diseases,1,32,United Arab Emirates
+2767,3405,2019,Ischmic Heart diseases,1,4,United Arab Emirates
+2768,3405,2019,Ischmic Heart diseases,1,180,United Arab Emirates
+2769,3405,2019,Ischmic Heart diseases,1,3,United Arab Emirates
+2770,3405,2019,Hypertensive disorders,1,5,United Arab Emirates
+2771,3405,2019,Hypertensive disorders,1,22,United Arab Emirates
+2772,3405,2019,Hypertensive disorders,1,38,United Arab Emirates
+2773,3405,2019,Rhumatic Fever,1,1,United Arab Emirates
+2774,3405,2019,Rhumatic Fever,1,1,United Arab Emirates
+2775,3405,2019,Rhumatic Fever,1,1,United Arab Emirates
+2776,3405,2019,Rhumatic Fever,1,1,United Arab Emirates
+2777,3405,2019,Rhumatic Fever,1,1,United Arab Emirates
+2778,3405,2019,Hypertensive disorders,1,6,United Arab Emirates
+2779,3405,2019,AIDS\HIV,1,3,United Arab Emirates
+2780,3405,2019,Hepatic viral infection,1,6,United Arab Emirates
+2781,3405,2019,Hepatic viral infection,1,2,United Arab Emirates
+2782,3405,2019,Hepatic viral infection,1,1,United Arab Emirates
+2783,3405,2019,Other heart diseases,9,2,United Arab Emirates
+2784,3405,2019,Other heart diseases,2,15,United Arab Emirates
+2785,3405,2019,Ischmic Heart diseases,2,37,United Arab Emirates
+2786,3405,2019,Ischmic Heart diseases,2,15,United Arab Emirates
+2787,3405,2019,Ischmic Heart diseases,2,1,United Arab Emirates
+2788,3405,2019,Ischmic Heart diseases,2,54,United Arab Emirates
+2789,3405,2019,Ischmic Heart diseases,2,1,United Arab Emirates
+2790,3405,2019,Hypertensive disorders,2,10,United Arab Emirates
+2791,3405,2019,Hypertensive disorders,2,3,United Arab Emirates
+2792,3405,2019,Hypertensive disorders,2,8,United Arab Emirates
+2793,3405,2019,Hypertensive disorders,2,25,United Arab Emirates
+2794,3405,2019,Rhumatic Fever,2,1,United Arab Emirates
+2795,3405,2019,Rhumatic Fever,2,1,United Arab Emirates
+2796,3405,2019,Rhumatic Fever,2,1,United Arab Emirates
+2797,3405,2019,Mental disorders,2,1,United Arab Emirates
+2798,3405,2019,Other heart diseases,2,7,United Arab Emirates
+2799,3405,2019,AIDS\HIV,2,1,United Arab Emirates
+2800,3405,2019,AIDS\HIV,2,1,United Arab Emirates
+2801,3405,2019,AIDS\HIV,2,1,United Arab Emirates
+2802,3405,2019,Hepatic viral infection,2,1,United Arab Emirates
+2803,3405,2019,Hepatic viral infection,2,1,United Arab Emirates
+2804,3405,2019,Hepatic viral infection,2,1,United Arab Emirates
+2805,3405,2019,Sexual Transmmited diseases,2,1,United Arab Emirates
+2806,3405,2019,Other heart diseases,2,3,United Arab Emirates
+2807,3405,2019,Other heart diseases,2,6,United Arab Emirates
+2808,3405,2019,Other heart diseases,2,1,United Arab Emirates
+2809,3405,2019,Self-harm,2,1,United Arab Emirates
+2810,3405,2019,Self-harm,2,4,United Arab Emirates
+2811,3405,2019,Self-harm,2,1,United Arab Emirates
+2812,3405,2019,Self-harm,2,3,United Arab Emirates
+2813,3405,2019,Self-harm,2,3,United Arab Emirates
+2814,3405,2019,Self-harm,2,6,United Arab Emirates
+2815,3405,2019,Self-harm,2,14,United Arab Emirates
+2816,3405,2019,Self-harm,2,4,United Arab Emirates
+2817,3405,2019,Self-harm,2,8,United Arab Emirates
+2818,3405,2019,Self-harm,2,8,United Arab Emirates
+2819,3405,2019,Self-harm,2,21,United Arab Emirates
+2820,3405,2019,Self-harm,2,9,United Arab Emirates
+2821,3405,2019,Other heart diseases,2,2,United Arab Emirates
+2822,3405,2019,Other heart diseases,2,54,United Arab Emirates
+2823,3405,2019,Other heart diseases,2,11,United Arab Emirates
+2824,3405,2019,Other heart diseases,2,8,United Arab Emirates
+2825,3405,2019,Other heart diseases,2,1,United Arab Emirates
+2826,3405,2019,Other heart diseases,2,410,United Arab Emirates
+2827,3405,2019,Other heart diseases,2,3,United Arab Emirates
+2828,3405,2019,Other heart diseases,2,6,United Arab Emirates
+2829,3405,2019,Other heart diseases,2,2,United Arab Emirates
+2830,3405,2020,Hypertensive disorders,1,71,United Arab Emirates
+2831,3405,2020,Hypertensive disorders,2,26,United Arab Emirates
+2832,3405,2020,Mental disorders,1,1,United Arab Emirates
+2833,3405,2020,Mental disorders,2,1,United Arab Emirates
+2834,3405,2020,Mental disorders,1,1,United Arab Emirates
+2835,3405,2020,Self-harm,1,26,United Arab Emirates
+2836,3405,2020,Other heart diseases,2,2,United Arab Emirates
+2837,3405,2020,Self-harm,2,5,United Arab Emirates
